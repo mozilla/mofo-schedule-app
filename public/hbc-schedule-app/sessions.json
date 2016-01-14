@@ -20,7 +20,7 @@
         "id": "100002", 
         "location": "Floor 0 - Foyer", 
         "pathways": "", 
-        "scheduleblock": "saturday-registration", 
+        "scheduleblock": "saturday-session-block-1", 
         "space": "Everyone", 
         "start": "09:00 AM", 
         "title": "Saturday Tea Time"
