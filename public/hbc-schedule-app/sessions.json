@@ -1,9 +1,9 @@
 [
     {
         "day": "Saturday", 
-        "description": "test session", 
+        "description": "In this session, we will register and eat cookies. It will be delightful.", 
         "facilitator_array": [], 
-        "facilitators": "", 
+        "facilitators": "Erika Drushka, @edrush, Mozilla Foundation", 
         "id": "100001", 
         "location": "Floor 0 - Foyer", 
         "pathways": "", 
@@ -14,9 +14,9 @@
     },
     {
         "day": "Saturday", 
-        "description": "test session", 
+        "description": "By this time, we will be ready for tea.", 
         "facilitator_array": [], 
-        "facilitators": "", 
+        "facilitators": "Scott Downe, @ScottDowne, Mozilla Foundation", 
         "id": "100002", 
         "location": "Floor 0 - Foyer", 
         "pathways": "", 
