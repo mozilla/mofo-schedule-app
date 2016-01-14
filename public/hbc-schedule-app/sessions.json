@@ -11,18 +11,5 @@
         "space": "Everyone", 
         "start": "08:00 AM", 
         "title": "Saturday Registration"
-    },
-    {
-        "day": "Sunday", 
-        "description": "test session", 
-        "facilitator_array": [], 
-        "facilitators": "", 
-        "id": "100002", 
-        "location": "Floor 0 - Foyer", 
-        "pathways": "", 
-        "scheduleblock": "sunda-registration", 
-        "space": "Everyone", 
-        "start": "08:00 AM", 
-        "title": "Sunday Registration"
-    },
+    }
 ]
