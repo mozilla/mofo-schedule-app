@@ -11,5 +11,17 @@
         "space": "Everyone", 
         "start": "08:00 AM", 
         "title": "Saturday Registration - now with cookies!"
+        
+        "day": "Saturday", 
+        "description": "test session", 
+        "facilitator_array": [], 
+        "facilitators": "", 
+        "id": "100002", 
+        "location": "Floor 0 - Foyer", 
+        "pathways": "", 
+        "scheduleblock": "saturday-registration", 
+        "space": "Everyone", 
+        "start": "08:00 AM", 
+        "title": "Saturday Registration"
     }
 ]
