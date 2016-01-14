@@ -11,7 +11,7 @@
         "space": "Everyone", 
         "start": "08:00 AM", 
         "title": "Saturday Registration - now with cookies!"
-    }
+    },
     {
         "day": "Saturday", 
         "description": "test session", 
@@ -23,6 +23,6 @@
         "scheduleblock": "saturday-registration", 
         "space": "Everyone", 
         "start": "08:00 AM", 
-        "title": "Saturday Registration"
+        "title": "Saturday Tea Time"
     }
 ]
