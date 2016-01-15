@@ -29,4 +29,4 @@ Currently the apps are static HTML, CSS, and JS in /public where they can be hos
 
 ## deployment
 
-There is a Travis job that runs on commit to master that takes whatever is in /public and dumps it into the [gh-pages branch](https://github.com/mozilla/mofo-schedule-app/tree/gh-pages). You shouldn't ever need to directly change the gh-pages branch.
+There is a Travis job that runs on commit to master that takes whatever is in /public and dumps it into the [gh-pages branch](https://github.com/mozilla/mofo-schedule-app/tree/gh-pages). You shouldn't ever need to directly change files in the gh-pages branch.
