@@ -1,11 +1,32 @@
 # mofo-schedule-app
 
-To start local development, run the following commands:
+## In an emergency
 
-``` bash
-$ cp sample.env .env
-$ npm install
-$ npm start
+You're running your event, and the schedule app goes down? You should email emergency@mozillafoundation.org
+
+## Requirements
+
+[node 4+](https://nodejs.org/)
+
+## Setup
+
+```
+$> npm install
+$> cp sample.env .env
 ```
 
-Currently the apps are static HTML, CSS, and JS in /public where they can run on github pages.
+## To run
+
+```
+$> npm start
+```
+
+## gh-pages
+
+Currently the apps are static HTML, CSS, and JS in /public where they can be hosted on github pages.
+
+[List of schedules](https://github.com/mozilla/mofo-schedule-app/tree/gh-pages)
+
+## deployment
+
+There is a Travis job that runs on commit to master that takes whatever is in /public and dumps it into the gh-pages branch. You shouldn't ever need to directly change the gh-pages branch.
