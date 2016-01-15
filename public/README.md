@@ -1,3 +1,3 @@
 # mofo schedules
 
-[hcb-schedule-app](http://mozilla.github.io/mofo-schedule-app/hcb-schedule-app/)
+[hive-chicago-buzz](http://mozilla.github.io/mofo-schedule-app/hive-chicago-buzz/)
