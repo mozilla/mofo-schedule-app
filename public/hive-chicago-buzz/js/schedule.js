@@ -441,7 +441,7 @@ function Schedule(options) {
         }
 
         schedule.$container.html(schedule.sessionListTemplate);
-        schedule.addCaptionOverline("<h2>" + schedule.filterKey + ": " + schedule.filterValue.replace(/-/g," ") + "</h2>");
+        schedule.addCaptionOverline("<h2>moonshots: " + schedule.filterValue.replace(/-/g," ") + "</h2>");
         schedule.addSessionsToSchedule(schedule.filteredList);
         schedule.clearOpenBlocks();
     }
@@ -637,7 +637,7 @@ function Schedule(options) {
         schedule.clearHighlightedPage();
         schedule.$pageLinks.find('#pathways-page-link').addClass('active');
         schedule.$container.html("");
-        schedule.addCaptionOverline("<h3><span>Pathways</span></h3>");
+        schedule.addCaptionOverline("<h3><span>Moonshots</span></h3>");
 
         schedule.loadPathways(function() {
             var pathwaysListKeys = _.map(schedule.pathwayMetaList, function(pathway) {
