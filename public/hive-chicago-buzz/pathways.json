@@ -6,10 +6,11 @@
   },
   {
     "name": "Think Tank",
-    "description": [
-      ""
-    ]
-  },
+    "description": 
+      "Through working with Hive member organizations and scouring recent literature for the best 
+      practices in data integration, we can help tackle the behemoth known as data and help Hive 
+      organizations succeed in building better experiences for our teens."
+      },
   {
     "name": "Parent-Engagement",
     "description": [
