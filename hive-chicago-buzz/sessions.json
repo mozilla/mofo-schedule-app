@@ -37,5 +37,18 @@
         "space": "Everyone", 
         "start": "10:00 AM", 
         "title": "Nap Time"
+    },
+       {
+        "day": "Saturday", 
+        "description": "By now, we'll be tired. Hope you brought your pillow!", 
+        "facilitator_array": [], 
+        "facilitators": "Mavis Ou, @ohmmmavis, Mozilla Foundation", 
+        "id": "100003", 
+        "location": "Floor 0 - Foyer", 
+        "pathways": "Transportation", 
+        "scheduleblock": "saturday-session-block-2", 
+        "space": "Everyone", 
+        "start": "10:00 AM", 
+        "title": "test Time"
     }
 ]
