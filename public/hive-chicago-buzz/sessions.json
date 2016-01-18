@@ -43,12 +43,25 @@
         "description": "By now, we'll be tired. Hope you brought your pillow!", 
         "facilitator_array": [], 
         "facilitators": "Mavis Ou, @ohmmmavis, Mozilla Foundation", 
-        "id": "100003", 
+        "id": "100004", 
         "location": "Floor 0 - Foyer", 
         "pathways": "Transportation", 
         "scheduleblock": "saturday-session-block-2", 
         "space": "Everyone", 
         "start": "10:00 AM", 
         "title": "test test"
+    },
+       {
+        "day": "Saturday", 
+        "description": "Test to show an updated location", 
+        "facilitator_array": [], 
+        "facilitators": "Mavis Ou, @ohmmmavis, Mozilla Foundation", 
+        "id": "100005", 
+        "location": "Efebinas - Space 11", 
+        "pathways": "Parent-Engagement", 
+        "scheduleblock": "saturday-session-block-2", 
+        "space": "Everyone", 
+        "start": "10:00 AM", 
+        "title": "test location"
     }
 ]
