@@ -1,0 +1,41 @@
+[
+    {
+        "day": "Saturday", 
+        "description": "In this session, we will register and eat cookies. It will be delightful.", 
+        "facilitator_array": [], 
+        "facilitators": "Erika Drushka,@edrush,Mozilla Foundation", 
+        "id": "100001", 
+        "location": "Floor 0 - Foyer", 
+        "pathways": "Think Tank", 
+        "scheduleblock": "saturday-registration", 
+        "space": "Everyone", 
+        "start": "08:00 AM", 
+        "title": "Saturday Registration - now with cookies!"
+    },
+    {
+        "day": "Saturday", 
+        "description": "By this time, we will be ready for tea.", 
+        "facilitator_array": [], 
+        "facilitators": "Scott Downe, @ScottDowne, Mozilla Foundation", 
+        "id": "100002", 
+        "location": "Floor 0 - Foyer", 
+        "pathways": "School-Hive", 
+        "scheduleblock": "saturday-session-block-1", 
+        "space": "Everyone", 
+        "start": "09:00 AM", 
+        "title": "Saturday Tea Time"
+    },
+       {
+        "day": "Saturday", 
+        "description": "By now, we'll be tired. Hope you brought your pillow!", 
+        "facilitator_array": [], 
+        "facilitators": "Mavis Ou, @ohmmmavis, Mozilla Foundation", 
+        "id": "100003", 
+        "location": "Floor 0 - Foyer", 
+        "pathways": "Transportation", 
+        "scheduleblock": "saturday-session-block-2", 
+        "space": "Everyone", 
+        "start": "10:00 AM", 
+        "title": "Nap Time"
+    }
+]
