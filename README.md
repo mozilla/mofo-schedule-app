@@ -6,7 +6,7 @@ You're running your event, and the schedule app goes down? You should email emer
 
 ## Schedule List
 
-[hive-chicago-buzz](http://mozilla.github.io/mofo-schedule-app/hive-chicago-buzz/)
+[hive-chicago-buzz](http://mozilla.github.io/mofo-schedule-app/)
 
 ## Requirements
 
