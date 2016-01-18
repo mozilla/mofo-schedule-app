@@ -25,7 +25,10 @@ $> npm start
 
 Currently the apps are static HTML, CSS, and JS in /public where they can be hosted on github pages.
 
-[List of schedules](https://github.com/mozilla/mofo-schedule-app/tree/gh-pages)
+## Schedule List
+
+[hive-chicago-buzz](http://mozilla.github.io/mofo-schedule-app/hive-chicago-buzz/)
+
 
 ## deployment
 
