@@ -2,4 +2,8 @@
 
 set -o errexit -o nounset
 
-git subtree push --prefix public "https://${GH_TOKEN}@github.com/mozilla/mofo-schedule-app.git" gh-pages
+git remote add upstream "https://${GH_TOKEN}@github.com/mozilla/mofo-schedule-app.git"
+git fetch upstream
+git checkout upstream/master
+
+git subtree push --prefix public upstream gh-pages
