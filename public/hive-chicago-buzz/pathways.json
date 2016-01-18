@@ -1,8 +1,9 @@
 [
   {
     "name": "School-Hive",
-    "description":
-      "We aim to create connected learning opportunities within Chicago school communities."
+    "description": [
+      ""
+    ]
   },
   {
     "name": "Think Tank",
@@ -22,7 +23,7 @@
       ""
     ]
   },
- {
+  {
     "name": "Transportation",
     "description": [
       ""
