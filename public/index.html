@@ -47,7 +47,7 @@
                     </div>
                     <div id="page-links">
                         <a href="./img/HiveChicagoBuzzFloorPlan.pdf">Floor Plan</a>
-                        <a href="#_pathways" id="pathways-page-link">Moonshots</a>
+                        <a href="#_moonshots" id="pathways-page-link">Moonshots</a>
                     </div>
                 </div>
             </nav>
@@ -63,36 +63,36 @@
         <script type="text/template" id="session-list-template">
         <div id="friday" class="schedule-tab">
             <h3><span>Friday Doors Open 4 PM</span></h3>
-            <div id="friday-doors-open" class="page-block"><div class="open-block">OPEN</div></div>
+            <div id="friday-400-pm-doors-open" class="page-block"><div class="open-block">OPEN</div></div>
 
             <h3><span>Friday Keynotes 5 PM</span></h3>
-            <div id="friday-keynotes" class="page-block"><div class="open-block">OPEN</div></div>
+            <div id="friday-500-pm-keynotes" class="page-block"><div class="open-block">OPEN</div></div>
 
             <h3><span>Friday Networking 6 PM</span></h3>
-            <div id="friday-networking" class="page-block"><div class="open-block">OPEN</div></div>
+            <div id="friday-600-pm-networking" class="page-block"><div class="open-block">OPEN</div></div>
         </div>
 
         <div id="saturday" class="schedule-tab">
             <h3><span>Saturday Opening 8:30 AM</span></h3>
-            <div id="saturday-opening" class="page-block"><div class="open-block">OPEN</div></div>
+            <div id="saturday-830-am-opening" class="page-block"><div class="open-block">OPEN</div></div>
 
             <h3><span>Saturday Skillshare 9 AM</span></h3>
-            <div id="saturday-skillshare-1" class="page-block"><div class="open-block">OPEN</div></div>
+            <div id="saturday-900-am-skillshare" class="page-block"><div class="open-block">OPEN</div></div>
 
             <h3><span>Saturday Skillshare 10 AM</span></h3>
-            <div id="saturday-skillshare-2" class="page-block"><div class="open-block">OPEN</div></div>
+            <div id="saturday-1000-am-skillshare" class="page-block"><div class="open-block">OPEN</div></div>
 
             <h3><span>Saturday Working Group 11 AM</span></h3>
-            <div id="saturday-working-group" class="page-block"><div class="open-block">OPEN</div></div>
+            <div id="saturday-1100-am-working-group" class="page-block"><div class="open-block">OPEN</div></div>
 
             <h3><span>Saturday Grab 'N Go Lunch 12 PM</span></h3>
-            <div id="saturday-lunch" class="page-block"><div class="open-block">OPEN</div></div>
+            <div id="saturday-1200-pm-grab-n-go-lunch" class="page-block"><div class="open-block">OPEN</div></div>
 
             <h3><span>Saturday Cake & Refreshments 3:30 PM</span></h3>
-            <div id="saturday-cake" class="page-block"><div class="open-block">OPEN</div></div>
+            <div id="saturday-330-pm-cake-refreshments" class="page-block"><div class="open-block">OPEN</div></div>
 
             <h3><span>Saturday CLosing 4 PM</span></h3>
-            <div id="saturday-closing" class="page-block"><div class="open-block">OPEN</div></div>
+            <div id="saturday-400-pm-closing" class="page-block"><div class="open-block">OPEN</div></div>
         </div>
 
         <div id="sunday" class="schedule-tab">
@@ -182,7 +182,7 @@
                     <% if (session.pathways && session.pathwayArray.length) { %>
                     <div class="session-pathways">
                         <% session.pathwayArray.forEach(function(name, index) { %><% if (index > 0) { %>, <% } %>
-                            <a href="#_pathway-<%= slugify(name) %>"><%= name %></a><% }) %>
+                            <a href="#_moonshot-<%= slugify(name) %>"><%= name %></a><% }) %>
                     </div>
                     <% } %>
                     <% if (session.facilitators) { %>
@@ -217,7 +217,7 @@
 
         <script type="text/template" id="pathways-list-template">
             <% if (name) { %>
-            <a href="#_pathway-<%= slugify(name) %>" class="pathway-list-item" data-pathway="<%= slugify(name) %>">
+            <a href="#_moonshot-<%= slugify(name) %>" class="pathway-list-item" data-pathway="<%= slugify(name) %>">
                 <h4><%= name %></h4>
                 <p><%= numSessions %> session<% if (numSessions>1) { %>s<% } %></p>
                 <% if (description.length) { %><% description.forEach(function(p) { %>

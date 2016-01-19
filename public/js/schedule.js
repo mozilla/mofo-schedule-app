@@ -79,11 +79,11 @@ function Schedule(options) {
                 // show sessions in a space based on space slug in URL
                 schedule.displaySessionsOfSpace(pageID);
                 break;
-            case "_pathways":
+            case "_moonshots":
                 // shows list of all pathways
                 schedule.displayPathwaysList();
                 break;
-            case "_pathway":
+            case "_moonshot":
                 // show sessions in a pathway based on pathway slug in URL
                 schedule.getFilteredSessions("pathways", pageID);
                 break;
@@ -166,12 +166,13 @@ function Schedule(options) {
         }
     }
 
-
     // sortSessionGroups() performs basic sorting so session lists
     // are rendered in proper order
     // TODO: pass in a sorting function rather than hard-code it here
     schedule.sortSessionGroups = function(data) {
         schedule.sessionList = _.sortBy(data, function(i) {
+            // FIXME: temp solution for formatting Hive Chicago Buzz data
+            i = formatHiveChicagoBuzzData(i);
             // simple way to divide sessions into groups by length
             return i.length != '1 hour';
         });
@@ -963,6 +964,24 @@ marked.setOptions({
     tables: false,
     smartypants: true
 });
+
+// FIXME: definitely a temp solution for formatting Hive Chicago Buzz session data exported from
+// Google Spreadsheet so that it's in the format the MozFest Schedule App consumes
+function formatHiveChicagoBuzzData(session) {
+    session.facilitator1 = session.facilitator1 || "";
+    session.facilitator2 = session.facilitator2 || "";
+    session.facilitator3 = session.facilitator3 || "";
+    var formatted = _.extend(session, {
+        id: session.id.toString(),
+        pathways: session.moonshot || "",
+        scheduleblock: !!session.scheduleblock ? session.scheduleblock.toLowerCase().replace(/ /g,"-").replace(/\(/g,"").replace(/\)/g,"").replace(/:/g,'').replace(/\'/g,'').replace(/\&/g,'') : "",
+        facilitator_array: [session.facilitator1, session.facilitator2, session.facilitator3].filter(function(facilitator){
+                                return !!facilitator;
+                            }),
+    });
+    formatted.facilitators = formatted.facilitator_array.join(",");
+    return formatted;
+}
 
 // instantiate the app
 new Schedule();
