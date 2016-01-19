@@ -1,132 +1,401 @@
 [
     {
-        "day": "Friday", 
-        "description": "In this session, we will register and eat cookies. It will be delightful.", 
-        "facilitator_array": [], 
-        "facilitators": "Erika Drushka,@edrush,Mozilla Foundation", 
-        "id": "100001", 
-        "location": "Floor 0 - Foyer", 
-        "pathways": "Think Tank", 
-        "scheduleblock": "friday-doors-open", 
-        "space": "Everyone", 
-        "start": "08:00 AM", 
-        "title": "Saturday Registration - now with cookies!"
+        "id": 1,
+        "title": "Vice-Versa Tech",
+        "description": "A) 2-3 Sample Videos, B) UI mock-ups for a low-barrier / easy to launch website w/ open source tools, C) Draft plan for a 2016-2017 school year program w/ opportunities for teachers and students.",
+        "format": "4 hour Working Group",
+        "moonshot": "School-Hive",
+        "day": "Friday",
+        "scheduleblock": "Friday 4:00 PM (Doors Open)",
+        "location": "SP14 | Efebinas | 15ppl",
+        "facilitator1": "Lisa Kim, Mikva Challenge"
     },
     {
-        "day": "Friday", 
-        "description": "By this time, we will be ready for tea.", 
-        "facilitator_array": [], 
-        "facilitators": "Scott Downe, @ScottDowne, Mozilla Foundation", 
-        "id": "100002", 
-        "location": "Floor 0 - Foyer", 
-        "pathways": "School-Hive", 
-        "scheduleblock": "friday-keynotes", 
-        "space": "Everyone", 
-        "start": "09:00 AM", 
-        "title": "Saturday Tea Time"
+        "id": 2,
+        "title": "Digital Corps",
+        "description": "Building a Digital Corps in Chicago: leveraging Hive Network resources to provide Digital Media and Web Literacy support in Chicago schools.",
+        "format": "4 hour Working Group",
+        "moonshot": "School-Hive",
+        "location": "SP13 | Efebinas | 15ppl",
+        "facilitator1": "Donna Roman, Chicago Public Schools"
     },
-       {
-        "day": "Friday", 
-        "description": "By now, we'll be tired. Hope you brought your pillow!", 
-        "facilitator_array": [], 
-        "facilitators": "Mavis Ou, @ohmmmavis, Mozilla Foundation", 
-        "id": "100003", 
-        "location": "Floor 0 - Foyer", 
-        "pathways": "Transportation", 
-        "scheduleblock": "friday-networking", 
-        "space": "Everyone", 
-        "start": "10:00 AM", 
-        "title": "Nap Time"
+    {
+        "id": 3,
+        "title": "Update: Connecting Teachers (Session 1)",
+        "description": "We will review what we've done so far in terms of connecting teachers to Hive with the idea of pushing forward to figure out ways to credential teachers in Connected Learning",
+        "format": "45 min Skillshare",
+        "moonshot": "School-Hive",
+        "location": "SP14 | Efebinas | 15ppl",
+        "facilitator1": "Germania Solorzano, NEIU Center for College Access and Success",
+        "facilitator2": "Julie Koslowski, YouMedia",
+        "facilitator3": "Jacki Carmichael, Project Exploration"
     },
-       {
-        "day": "Saturday", 
-        "description": "By now, we'll be tired. Hope you brought your pillow!", 
-        "facilitator_array": [], 
-        "facilitators": "Mavis Ou, @ohmmmavis, Mozilla Foundation", 
-        "id": "100004",
-        "location": "Efebinas - Space 11", 
-        "pathways": "Transportation", 
-        "scheduleblock": "saturday-opening", 
-        "space": "Everyone", 
-        "start": "10:00 AM", 
-        "title": "test test"
+    {
+        "id": 4,
+        "title": "Update: Connecting Teachers (Sessoion 2)",
+        "description": "We will review what we've done so far in terms of connecting teachers to Hive with the idea of pushing forward to figure out ways to credential teachers in Connected Learning",
+        "format": "45 min Skillshare",
+        "moonshot": "School-Hive",
+        "location": "SP14 | Efebinas | 15ppl",
+        "facilitator1": "Germania Solorzano, NEIU Center for College Access and Success",
+        "facilitator2": "Julie Koslowski, YouMedia",
+        "facilitator3": "Jacki Carmichael, Project Exploration"
     },
-       {
-        "day": "Saturday", 
-        "description": "By now, we'll be tired. Hope you brought your pillow!", 
-        "facilitator_array": [], 
-        "facilitators": "Mavis Ou, @ohmmmavis, Mozilla Foundation", 
-        "id": "100005", 
-        "location": "Efebinas - Space 11", 
-        "pathways": "Transportation", 
-        "scheduleblock": "saturday-skillshare-1", 
-        "space": "Everyone", 
-        "start": "10:00 AM", 
-        "title": "test test"
+    {
+        "id": 5,
+        "title": "Hive Dictionary (Session 1)",
+        "description": "Help co-create the first Hive Dictionary. ",
+        "format": "45 min Skillshare",
+        "moonshot": "School-Hive",
+        "location": "SP08 | Blue1647 | 15ppl",
+        "facilitator1": "Sana Jafri, Chicago Community Trust"
     },
-       {
-        "day": "Saturday", 
-        "description": "By now, we'll be tired. Hope you brought your pillow!", 
-        "facilitator_array": [], 
-        "facilitators": "Mavis Ou, @ohmmmavis, Mozilla Foundation", 
-        "id": "100006", 
-        "location": "Floor 0 - Foyer", 
-        "pathways": "Transportation", 
-        "scheduleblock": "saturday-skillshare-2", 
-        "space": "Everyone", 
-        "start": "10:00 AM", 
-        "title": "test test"
+    {
+        "id": 6,
+        "title": "Hive Dictionary (Session 2)",
+        "description": "Help co-create the first Hive Dictionary. ",
+        "format": "45 min Skillshare",
+        "moonshot": "School-Hive",
+        "location": "SP08 | Blue1647 | 15ppl",
+        "facilitator1": "Sana Jafri, Chicago Community Trust"
     },
-       {
-        "day": "Saturday", 
-        "description": "By now, we'll be tired. Hope you brought your pillow!", 
-        "facilitator_array": [], 
-        "facilitators": "Mavis Ou, @ohmmmavis, Mozilla Foundation", 
-        "id": "100007", 
-        "location": "Floor 0 - Foyer", 
-        "pathways": "Transportation", 
-        "scheduleblock": "saturday-working-group", 
-        "space": "Everyone", 
-        "start": "10:00 AM", 
-        "title": "test test"
+    {
+        "id": 7,
+        "title": "Measuring Impact",
+        "description": "Conversations and workshops: Quality vs Quantity; How do you measure soft skills? Creating Surveys and forms; Data gathering and assessment; What does impact mean?; Removing the fear of evaluation",
+        "format": "4 hour Working Group",
+        "moonshot": "Think Tank",
+        "location": "SP02 | Blue1647 | 30ppl",
+        "facilitator1": "Ashlyn Sparrow, Game Changer Chicago"
     },
-       {
-        "day": "Saturday", 
-        "description": "By now, we'll be tired. Hope you brought your pillow!", 
-        "facilitator_array": [], 
-        "facilitators": "Mavis Ou, @ohmmmavis, Mozilla Foundation", 
-        "id": "100008", 
-        "location": "Floor 0 - Foyer", 
-        "pathways": "Transportation", 
-        "scheduleblock": "saturday-lunch", 
-        "space": "Everyone", 
-        "start": "10:00 AM", 
-        "title": "test test"
+    {
+        "id": 8,
+        "title": "Using Social Network Analysis (Session 1)",
+        "description": "People that attend this workshop will learn how to design a program evaluation that incorporates analysis of social networks and social capital.",
+        "format": "45 min Skillshare",
+        "moonshot": "Think Tank",
+        "location": "SP14 | Efebinas | 15ppl",
+        "facilitator1": "Kira Baker-Doyle, Arcadia University",
+        "facilitator2": "Katie Miller, Arcadia University"
     },
-       {
-        "day": "Saturday", 
-        "description": "By now, we'll be tired. Hope you brought your pillow!", 
-        "facilitator_array": [], 
-        "facilitators": "Mavis Ou, @ohmmmavis, Mozilla Foundation", 
-        "id": "100009", 
-        "location": "Floor 0 - Foyer", 
-        "pathways": "Transportation", 
-        "scheduleblock": "saturday-cake", 
-        "space": "Everyone", 
-        "start": "10:00 AM", 
-        "title": "test test"
+    {
+        "id": 9,
+        "title": "Using Social Network Analysis (Session 2)",
+        "description": "People that attend this workshop will learn how to design a program evaluation that incorporates analysis of social networks and social capital.",
+        "format": "45 min Skillshare",
+        "moonshot": "Think Tank",
+        "location": "SP14 | Efebinas | 15ppl",
+        "facilitator1": "Kira Baker-Doyle, Arcadia University",
+        "facilitator2": "Katie Miller, Arcadia University"
     },
-       {
-        "day": "Saturday", 
-        "description": "By now, we'll be tired. Hope you brought your pillow!", 
-        "facilitator_array": [], 
-        "facilitators": "Mavis Ou, @ohmmmavis, Mozilla Foundation", 
-        "id": "100010",
-        "location": "Floor 0 - Foyer", 
-        "pathways": "Transportation", 
-        "scheduleblock": "saturday-closing", 
-        "space": "Everyone", 
-        "start": "10:00 AM", 
-        "title": "test test"
+    {
+        "id": 10,
+        "title": "Web Literacy (Session 1)",
+        "description": "Feedback on Web Literacy 2.0, curriculum, training, and credentials Bundle",
+        "format": "45 min Skillshare",
+        "moonshot": "Think Tank",
+        "location": "SP09 | Blue1647 | 10ppl",
+        "facilitator1": "An-Me Chung, Mozilla"
+    },
+    {
+        "id": 11,
+        "title": "Web Literacy (Session 2)",
+        "description": "Feedback on Web Literacy 2.0, curriculum, training, and credentials Bundle",
+        "format": "45 min Skillshare",
+        "moonshot": "Think Tank",
+        "location": "SP09 | Blue1647 | 10ppl",
+        "facilitator1": "An-Me Chung, Mozilla"
+    },
+    {
+        "id": 12,
+        "title": "Writing Strong Grant Proposals",
+        "description": "A person who attends the workshop would learn how to write a grant application including improved measures and outcomes. ",
+        "format": "90 min Skillshare",
+        "moonshot": "Think Tank",
+        "location": "SP16 | Efebinas | 15ppl",
+        "facilitator1": "Sana Jafri, Chicago Community Trust"
+    },
+    {
+        "id": 13,
+        "title": "Feedback Mechanisms",
+        "description": "How to use common physical objects and open source code to create interactive experiences for obtaining teen feedback",
+        "format": "90 min Skillshare",
+        "moonshot": "Think Tank",
+        "location": "SP04 | Blue1647 | 20ppl",
+        "facilitator1": "Jackie Moore, LevelUp Makerspace"
+    },
+    {
+        "id": 14,
+        "title": "Parent Engagement Toolkit",
+        "description": "Possibilities include mapping parent and community networks, developing a toolkit for program providers to empower parents to engage in kids' informal learning.",
+        "format": "4 hour Working Group",
+        "moonshot": "Parent-Engagement",
+        "location": "SP05 | Blue1647 | 20ppl",
+        "facilitator1": "Nathalie Rayter, Adler Planetarium"
+    },
+    {
+        "id": 15,
+        "title": "Youth-Lead Solutions",
+        "description": "Idea from Youth Friday Hack event to be worked through on Saturday",
+        "format": "4 hour Working Group",
+        "moonshot": "Youth Voice",
+        "location": "SP04 | Blue1647 | 20ppl",
+        "facilitator1": "Youth Leaders (TBD)"
+    },
+    {
+        "id": 16,
+        "title": "Effective Adult Allies",
+        "description": "Adult Ally workshop--how to be successful with engaging youth in your org/institution's decisionmaking processes//scaling youth voice into your work",
+        "format": "90 min Skillshare",
+        "moonshot": "Youth Voice",
+        "location": "SP03 | Blue1647 | 20ppl",
+        "facilitator1": "Andrea Hart, Free Spirit Media"
+    },
+    {
+        "id": 17,
+        "title": "Hacking for Data Visualization",
+        "description": "Create/modify javascript/python code for data collection/visualization; create public site for visualization; define processes for curating data by data moonshot group",
+        "format": "4 hour Working Group",
+        "moonshot": "Transportation",
+        "location": "SP10 | Blue1647 | 10ppl",
+        "facilitator1": "Jackie Moore, LevelUp Makerspace"
+    },
+    {
+        "id": 18,
+        "title": "Facilitating Transportation",
+        "description": "A user experience demo/runthrough for version 1.0 of RideW/Me, a point-to-point, peer-to-peer transportation solution for Chicago's youth and prep for user testing this Spring for futher development.",
+        "format": "4 hour Working Group",
+        "moonshot": "Transportation",
+        "location": "SP09 | Blue1647 | 10ppl",
+        "facilitator1": "Cat Greim, Iridescent Learning"
+    },
+    {
+        "id": 19,
+        "title": "Schuber: Ride-Share to School",
+        "description": "Schuber",
+        "format": "4 hour Working Group",
+        "moonshot": "Transportation",
+        "location": "SP11 | Blue1647 | 10ppl",
+        "facilitator1": "Lisa Kim, Mikva Challenge"
+    },
+    {
+        "id": 20,
+        "title": "CTA Survival Tools (Session 1)",
+        "description": "How to use existing digital, analog, and common sense survival tools to navigate  Chicago's public transportation system. This includes CTA Transit Tracker, paper maps, and personal safety tips.",
+        "format": "45 min Skillshare",
+        "moonshot": "Transportation",
+        "location": "SP06 | Blue1647 | 20ppl",
+        "facilitator1": "Marissa Warner, Community TV Network"
+    },
+    {
+        "id": 21,
+        "title": "CTA Survival Tools (Session 2)",
+        "description": "How to use existing digital, analog, and common sense survival tools to navigate  Chicago's public transportation system. This includes CTA Transit Tracker, paper maps, and personal safety tips.",
+        "format": "45 min Skillshare",
+        "moonshot": "Transportation",
+        "location": "SP06 | Blue1647 | 20ppl",
+        "facilitator1": "Marissa Warner, Community TV Network"
+    },
+    {
+        "id": 22,
+        "title": "Safe Bike Transportation (Session 1)",
+        "description": "Educators will be given the tools engage youth in bicycle advocacy as a vehicle to improve their bicycle transportation options. The presentation will explore the transformative power of bicycles and the role of bicycle equity.",
+        "format": "45 min Skillshare",
+        "moonshot": "Transportation",
+        "location": "SP07 | Blue1647 | 20ppl",
+        "facilitator1": "Olatunji Oboi Reed, Slow Roll Chicago"
+    },
+    {
+        "id": 23,
+        "title": "Safe Bike Transportation (Session 2)",
+        "description": "Educators will be given the tools engage youth in bicycle advocacy as a vehicle to improve their bicycle transportation options. The presentation will explore the transformative power of bicycles and the role of bicycle equity.",
+        "format": "45 min Skillshare",
+        "moonshot": "Transportation",
+        "location": "SP07 | Blue1647 | 20ppl",
+        "facilitator1": "Olatunji Oboi Reed, Slow Roll Chicago"
+    },
+    {
+        "id": 24,
+        "title": "Connecting Opportunities",
+        "description": "Design a web platform that can connect youth who were not accepted into a competitive, space-limited program, with alternative program opportunities.",
+        "format": "4 hour Working Group",
+        "moonshot": "Onramps",
+        "location": "SP03 | Blue1647 | 20ppl",
+        "facilitator1": "David Bild, Chicago Academy of Sciences / Peggy Notebaert Nature Museum"
+    },
+    {
+        "id": 25,
+        "title": "Sharing Events",
+        "description": "We will demo the HIPC-II RSS WordPress plug-in to aggregate youth events across blogs through a hands-on activity that experiments with community blogging.",
+        "format": "90 min Skillshare",
+        "moonshot": "Onramps",
+        "location": "SP02 | Blue1647 | 30ppl",
+        "facilitator1": "Nathalie Rayter, Adler Planetarium"
+    },
+    {
+        "id": 26,
+        "title": "Build a Sky Camera",
+        "description": "Someone who attends this workshop will get a better understanding of the importance of the affects on light pollution.  They will learn how to build a sky camera and use it to view the night sky. ",
+        "format": "90 min Skillshare",
+        "moonshot": "Onramps",
+        "location": "SP05 | Blue1647 | 20ppl",
+        "facilitator1": "Rosalia Lugo, Adler Planetarium"
+    },
+    {
+        "id": 27,
+        "title": "Mapping Assets",
+        "description": "Some of the most complex questions of access and opportunity can be easily communicated in a 2-D projection of a place. We'll use map tools to help groups connect w/communities hyper-locally.",
+        "format": "90 min Skillshare",
+        "moonshot": "Onramps",
+        "location": "SP12 | Blue1647 | 10ppl",
+        "facilitator1": "Aurelia Moser, Mozilla Science Lab",
+        "facilitator2": "Stuart Lynn, CartoDB",
+        "facilitator3": "David Bild, Chicago Academy of Sciences"
+    },
+    {
+        "id": 28,
+        "title": "Community Communications",
+        "description": "Session will build on the morning's workshop to prototype solutions to online community communications",
+        "format": "4 hour Working Group",
+        "moonshot": "Other",
+        "location": "SP07 | Blue1647 | 20ppl",
+        "facilitator1": "Wade Berger, Shedd Aquarium"
+    },
+    {
+        "id": 29,
+        "title": "Supporting Collaboration (Session 1)",
+        "description": "Skillshare participants will learn about the needs of HIVE members in between meetups by looking at the dynamics of an online community built specifically for HIVE members beyond the Slack interim solution.",
+        "format": "45 min Skillshare",
+        "moonshot": "Other",
+        "location": "SP13 | Efebinas | 15ppl",
+        "facilitator1": "Wade Berger, Shedd Aquarium"
+    },
+    {
+        "id": 30,
+        "title": "Supporting Collaboration (Session 2)",
+        "description": "Skillshare participants will learn about the needs of HIVE members in between meetups by looking at the dynamics of an online community built specifically for HIVE members beyond the Slack interim solution.",
+        "format": "45 min Skillshare",
+        "moonshot": "Other",
+        "location": "SP13 | Efebinas | 15ppl",
+        "facilitator1": "Wade Berger, Shedd Aquarium"
+    },
+    {
+        "id": 31,
+        "title": "Open Studio Time for Youth",
+        "description": "Project design & planning skills - move the needle on projects & opportunities by implementing these skills- begin identifying stakeholders, resources, possible collaborations and action steps.",
+        "format": "90 min Skillshare",
+        "moonshot": "Other",
+        "location": "SP11 | Blue1647 | 10ppl",
+        "facilitator1": "Alyssa Vera Ramos, Scenarios USA"
+    },
+    {
+        "id": 32,
+        "title": "Credentialling Connected Learning",
+        "description": "Buiding on the morning session.  Continued brainstorming, video interviewing, and curriculum mapping ",
+        "format": "4 hour Working Group",
+        "moonshot": "School-Hive",
+        "facilitator1": "Germania Solorzano, NEIU Center for College Access and Success",
+        "facilitator2": "Julie Koslowski, YouMedia",
+        "facilitator3": "Jacki Carmichael, Project Exploration"
+    },
+    {
+        "id": 33,
+        "title": "Registration",
+        "description": "Please arrive before 5:00pm to register and grab a refreshment before speakers begin!",
+        "scheduleblock": "Friday 4:00 PM (Doors Open)",
+        "facilitator1": "Mozilla Staff, , Mozilla Foundation"
+    },
+    {
+        "id": 34,
+        "title": "Keynotes",
+        "description": "Sam Dyson is joined by Andrea Saénz, Chicago Public Library and Gabrielle Lyon, Architecture Foundation, to introduce you to what the Hive is all about and how we will active and co-create solutions to transform the learning landscape of Chicago. ",
+        "scheduleblock": "Friday 5:00 PM (Keynotes)",
+        "facilitator1": "Samuel Dyson, @sameuledyson, Mozilla Hive Chicago"
+    },
+    {
+        "id": 35,
+        "title": "Networking",
+        "description": "Connect with Hive network members and staff to deep dive on the projects and intiatives that made 2015 a breakout year. Use this time to learn more about what you can do on Saturday, or throughout 2016 with Hive Chicago.",
+        "scheduleblock": "Friday 6:00 PM (Networking)"
+    },
+    {
+        "id": 36,
+        "title": "Registration",
+        "description": "Please arrive before 8:30am to register and grab some breakfast before the day begins!",
+        "scheduleblock": "Saturday 8:30 AM (Opening)"
+    },
+    {
+        "id": 37,
+        "title": "Welcome",
+        "description": "Hive staff welcome attendees and review the agenda and goals for the hack day.",
+        "facilitator1": "Samuel Dyson, @sameuledyson, Mozilla Hive Chicago"
+    },
+    {
+        "id": 38,
+        "title": "Grab 'N Go Lunch",
+        "description": "Lunch boxes will be available for everyone with a lunch ticket. Grab your lunch box and return to your working group session, or sneak a quick break.",
+        "scheduleblock": "Saturday 12:00 PM (Grab 'N Go Lunch)",
+        "facilitator1": "Mozilla Staff, , Mozilla Foundation"
+    },
+    {
+        "id": 39,
+        "title": "Closing Ceremony",
+        "description": "Stick around to share what your group accomplished today, hear from other groups and what they did, and pledge to take the next steps at meetups in 2016 and beyond.",
+        "scheduleblock": "Saturday 4:00 PM (Closing)",
+        "facilitator1": "Mozilla Staff, , Mozilla Foundation"
+    },
+    {
+        "id": 40
+    },
+    {
+        "id": 41
+    },
+    {
+        "id": 42
+    },
+    {
+        "id": 43
+    },
+    {
+        "id": 44
+    },
+    {
+        "id": 45
+    },
+    {
+        "id": 46
+    },
+    {
+        "id": 47
+    },
+    {
+        "id": 48
+    },
+    {
+        "id": 49
+    },
+    {
+        "id": 50
+    },
+    {
+        "id": 51
+    },
+    {
+        "id": 52
+    },
+    {
+        "id": 53
+    },
+    {
+        "id": 54
+    },
+    {
+        "id": 55
+    },
+    {
+        "id": 56
+    },
+    {
+        "id": 57
     }
 ]
