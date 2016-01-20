@@ -974,6 +974,7 @@ function formatHiveChicagoBuzzData(session) {
     var formatted = _.extend(session, {
         id: session.id.toString(),
         pathways: session.moonshot || "",
+        start: session.format || "",
         scheduleblock: !!session.scheduleblock ? session.scheduleblock.toLowerCase().replace(/ /g,"-").replace(/\(/g,"").replace(/\)/g,"").replace(/:/g,'').replace(/\'/g,'').replace(/\&/g,'') : "",
         facilitator_array: [session.facilitator1, session.facilitator2, session.facilitator3].filter(function(facilitator){
                                 return !!facilitator;
