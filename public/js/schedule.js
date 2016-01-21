@@ -693,7 +693,7 @@ function Schedule(options) {
             schedule.displaySpacesList();
         });
 
-        // clicking on the "Spaces" link on the nav bar displays the list of Spaces
+        // clicking on the "Pathways" link on the nav bar displays the list of Pathways
         schedule.$pageLinks.on('click', '#pathways-page-link', function(e) {
             schedule.updateHash('pathways');
             schedule.displayPathwaysList();
@@ -713,7 +713,7 @@ function Schedule(options) {
             e.preventDefault();
 
             var pathway_slug = $(this).data("pathway");
-            schedule.updateHash('pathway-'+pathway_slug);
+            schedule.updateHash('moonshot-'+pathway_slug);
             schedule.getFilteredSessions("pathways", pathway_slug);
         });
 
