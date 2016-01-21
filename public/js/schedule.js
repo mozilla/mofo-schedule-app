@@ -440,11 +440,19 @@ function Schedule(options) {
                 return (schedule.slugify(v[schedule.filterKey]).indexOf(schedule.slugify(schedule.filterValue)) >= 0);
             });
         }
-
         schedule.$container.html(schedule.sessionListTemplate);
-        schedule.addCaptionOverline("<h2>moonshots: " + schedule.filterValue.replace(/-/g," ") + "</h2>");
-        schedule.addSessionsToSchedule(schedule.filteredList);
-        schedule.clearOpenBlocks();
+        var caption = "<h2>moonshots: " + schedule.filterValue.replace(/-/g," ");
+        schedule.loadPathways(function() {
+          var foundPathway = _.find(schedule.pathwayMetaList, function(pathway) {
+              return pathway.name.toLowerCase() === schedule.filterValue.toLowerCase();
+          });
+          if (foundPathway && foundPathway.channel) {
+            caption += "</h2><div class=\"slack-channel\"><a href=\"https://hivechi.slack.com/messages/" + foundPathway.channel + "\">#" + foundPathway.channel + "</a></div>";
+          }
+          schedule.addCaptionOverline(caption);
+          schedule.addSessionsToSchedule(schedule.filteredList);
+          schedule.clearOpenBlocks();
+        });
     }
 
     // based on the value of chosenTab, render the proper session list

@@ -196,6 +196,10 @@ header a {
     color: inherit;
 }
 
+.page-caption .slack-channel {
+    text-align: center;
+}
+
 .schedule-tab h3,
 .page-caption h3 {
     position: relative;
