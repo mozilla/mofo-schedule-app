@@ -984,7 +984,7 @@ function formatHiveChicagoBuzzData(session) {
         pathways: session.moonshot || "",
         start: session.format || "",
         space: session.space || "",
-        scheduleblock: !!session.scheduleblock ? session.scheduleblock.toLowerCase().replace(/ /g,"-").replace(/\(/g,"").replace(/\)/g,"").replace(/:/g,'').replace(/\'/g,'').replace(/\&/g,'') : "",
+        scheduleblock: !!session.scheduleblock ? session.scheduleblock.toLowerCase().replace(/\'/g,'').replace(/\&/g,'').replace(/\s+/g,"-").replace(/\(/g,"").replace(/\)/g,"").replace(/:/g,'') : "",
         facilitator_array: [session.facilitator1, session.facilitator2, session.facilitator3].filter(function(facilitator){
                                 return !!facilitator;
                             }),
