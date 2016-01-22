@@ -285,6 +285,8 @@ function Schedule(options) {
                 var otherMeta = _.each(metaArray, function(value) {
                     if (value.indexOf("@") > -1) {
                         meta.twitter = schedule.trim(value);
+                    } else if (meta.description) {
+                        meta.description += ", " + schedule.trim(value);
                     } else {
                         meta.description += schedule.trim(value);
                     }
@@ -989,7 +991,7 @@ function formatHiveChicagoBuzzData(session) {
                                 return !!facilitator;
                             }),
     });
-    formatted.facilitators = formatted.facilitator_array.join(",");
+    formatted.facilitators = formatted.facilitator_array.join(", ");
     return formatted;
 }
 
