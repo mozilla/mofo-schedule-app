@@ -19,6 +19,7 @@
     "copy:data": "shx cp -r data dest",
     "copy:js": "shx cp -r js dest",
     "copy:vendor": "shx cp -r vendor dest",
+    "copy:cname": "shx cp CNAME dest",
     "server": "live-server ./dest --port=2017",
     "watch:css": "chokidar 'scss/**/*.scss' -c 'npm run build:scss'",
     "watch:data": "chokidar 'data/**/*.json' -c 'npm run copy:data'",
