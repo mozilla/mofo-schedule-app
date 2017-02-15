@@ -1,16 +1,55 @@
 {
-  "name": "mofo-schedule-app",
-  "version": "1.0.0",
-  "description": "mofo-schedule-app",
+  "name": "hive-chicago-buzz",
+  "version": "2.0.0",
+  "description": "Hive Chicago Buzz",
   "scripts": {
-    "start": "node app.js"
+    "bootstrap": "shx rm -rf dest && shx mkdir dest",
+    "start": "npm run build && run-p server watch:**",
+    "stage": "npm i && npm run build && node scripts/stage.js",
+    "build": "run-s bootstrap build:**",
+    "build:scss": "node-sass scss/style.scss dest/css/style.css",
+    "build:prefix:style": "postcss --use autoprefixer -o dest/css/style.css dest/css/style.css",
+    "build:static": "run-s copy:**",
+    "copy:styling-dependency": "run-s bootstrap:mofo-bootstrap bootstrap:fontawesome bootstrap:prefix",
+    "bootstrap:mofo-bootstrap": "shx cp -r node_modules/mofo-bootstrap/dest/css dest",
+    "bootstrap:fontawesome": "shx cp -r node_modules/font-awesome/css/font-awesome.min.css dest/css && shx cp -r node_modules/font-awesome/fonts dest",
+    "bootstrap:prefix": "postcss --use autoprefixer -o dest/css/mofo-bootstrap.css dest/css/mofo-bootstrap.css",
+    "copy:index": "shx cp index.html dest/index.html",
+    "copy:assets": "shx cp -r assets dest",
+    "copy:data": "shx cp -r data dest",
+    "copy:js": "shx cp -r js dest",
+    "copy:vendor": "shx cp -r vendor dest",
+    "server": "live-server ./dest --port=2017",
+    "watch:css": "chokidar 'scss/**/*.scss' -c 'npm run build:scss'",
+    "watch:data": "chokidar 'data/**/*.json' -c 'npm run copy:data'",
+    "watch:html": "chokidar 'index.html' -c 'npm run build:static'",
+    "watch:js": "chokidar 'js/**/*.js' -c 'npm run copy:js'"
   },
-  "author": "Mozilla Foundation",
-  "dependencies": {
-    "express": "3.4.5",
-    "express-rate-limit": "1.0.2",
-    "habitat": "0.4.1",
-    "compression": "1.4.4",
-    "body-parser": "1.12.4"
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mozilla/hive-chicago-buzz.git"
+  },
+  "author": "Mozilla",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/mozilla/hive-chicago-buzz/issues"
+  },
+  "homepage": "https://github.com/mozilla/hive-chicago-buzz",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^6.7.2",
+    "chokidar-cli": "^1.2.0",
+    "font-awesome": "^4.7.0",
+    "live-server": "^1.2.0",
+    "mofo-bootstrap": "^3.2.0",
+    "node-sass": "^4.5.0",
+    "npm-run-all": "^4.0.1",
+    "postcss-cli-simple": "^1.0.3",
+    "shelljs": "^0.7.6",
+    "shx": "^0.2.2"
   }
 }

@@ -1,0 +1,476 @@
+{
+    "sessions": [
+        {
+            "additional language": "", 
+            "category": "", 
+            "day": "Friday", 
+            "description": "Light refreshments, mix and mingle.", 
+            "end": "4:00pm", 
+            "facilitators": {
+                "1": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "2": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "3": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }
+            }, 
+            "facilitators_names": [
+                "", 
+                "", 
+                ""
+            ], 
+            "id": "1", 
+            "localized description": "", 
+            "localized title": "", 
+            "location": "Bridgeport Art Center: Sculpture Garden", 
+            "notes url": "", 
+            "programmatic": false, 
+            "start": "4:00pm", 
+            "tags": [], 
+            "timeblock": "fri-16-00-", 
+            "title": "Doors Open, Registration, & Science Fair"
+        },
+        {
+            "additional language": "", 
+            "category": "", 
+            "day": "Friday", 
+            "description": "Light refreshments, mix and mingle.", 
+            "end": "5:30pm", 
+            "facilitators": {
+                "1": {
+                    "affiliated org": "Director, Hive Chicago", 
+                    "name": "Sam Dyson", 
+                    "twitter": ""
+                }, 
+                "2": {
+                    "affiliated org": "Portfolio Strategist, Hive Chicago", 
+                    "name": "Brenda Hernandez", 
+                    "twitter": ""
+                }, 
+                "3": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }
+            }, 
+            "facilitators_names": [
+                "Sam Dyson", 
+                "Brenda Hernandez", 
+                ""
+            ], 
+            "id": "2", 
+            "localized description": "", 
+            "localized title": "", 
+            "location": "Bridgeport Art Center: Sculpture Garden", 
+            "notes url": "", 
+            "programmatic": false, 
+            "start": "5:30pm", 
+            "tags": [], 
+            "timeblock": "fri-17-30-", 
+            "title": "RFP Share Out"
+        },
+        {
+            "additional language": "", 
+            "category": "", 
+            "day": "Friday", 
+            "description": "", 
+            "end": "6:00pm", 
+            "facilitators": {
+                "1": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "2": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "3": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }
+            }, 
+            "facilitators_names": [
+                "", 
+                "", 
+                ""
+            ], 
+            "id": "3", 
+            "localized description": "", 
+            "localized title": "", 
+            "location": "Bridgeport Art Center: Sculpture Garden", 
+            "notes url": "", 
+            "programmatic": false, 
+            "start": "6:00pm", 
+            "tags": [], 
+            "timeblock": "fri-18-00-", 
+            "title": "Guest Speakers"
+        },
+        {
+            "additional language": "", 
+            "category": "", 
+            "day": "Friday", 
+            "description": "", 
+            "end": "6:30pm", 
+            "facilitators": {
+                "1": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "2": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "3": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }
+            }, 
+            "facilitators_names": [
+                "", 
+                "", 
+                ""
+            ], 
+            "id": "4", 
+            "localized description": "", 
+            "localized title": "", 
+            "location": "Bridgeport Art Center: Sculpture Garden", 
+            "notes url": "", 
+            "programmatic": false, 
+            "start": "6:30pm", 
+            "tags": [], 
+            "timeblock": "fri-18-30-", 
+            "title": "Network with Hive Chicago Members"
+        },
+        {
+            "additional language": "", 
+            "category": "", 
+            "day": "Saturday", 
+            "description": "Coffee, light breakfast, mix and mingle.", 
+            "end": "8:00am", 
+            "facilitators": {
+                "1": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "2": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "3": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }
+            }, 
+            "facilitators_names": [
+                "", 
+                "", 
+                ""
+            ], 
+            "id": "5", 
+            "localized description": "", 
+            "localized title": "", 
+            "location": "Bridgeport Art Center: Skyline Loft", 
+            "notes url": "", 
+            "programmatic": false, 
+            "start": "8:00am", 
+            "tags": [], 
+            "timeblock": "sat-08-00-", 
+            "title": "Doors Open & Registration"
+        },
+        {
+            "additional language": "", 
+            "category": "", 
+            "day": "Saturday", 
+            "description": "get fired up and ready to activate our community", 
+            "end": "9:15am", 
+            "facilitators": {
+                "1": {
+                    "affiliated org": "Hive Chicago", 
+                    "name": "Kenyatta Forbes", 
+                    "twitter": ""
+                }, 
+                "2": {
+                    "affiliated org": "Hive Chicago", 
+                    "name": "Sam Dyson", 
+                    "twitter": ""
+                }, 
+                "3": {
+                    "affiliated org": "Hive Chicago", 
+                    "name": "Brenda Hernandez", 
+                    "twitter": ""
+                }
+            }, 
+            "facilitators_names": [
+                "Kenyatta Forbes", 
+                "Sam Dyson", 
+                "Brenda Hernandez"
+            ], 
+            "id": "6", 
+            "localized description": "", 
+            "localized title": "", 
+            "location": "Bridgeport Art Center: Skyline Loft", 
+            "notes url": "", 
+            "programmatic": false, 
+            "start": "9:15am", 
+            "tags": [], 
+            "timeblock": "sat-09-15-", 
+            "title": "Welcome Orientation"
+        },
+        {
+            "additional language": "", 
+            "category": "", 
+            "day": "Saturday", 
+            "description": "Join workshops on tools, strategies and best practices lead by Hive members and friends.\nWorkshops help introduce new ideas that might support solution designs during the hack day.", 
+            "end": "9:45am", 
+            "facilitators": {
+                "1": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "2": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "3": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }
+            }, 
+            "facilitators_names": [
+                "", 
+                "", 
+                ""
+            ], 
+            "id": "7", 
+            "localized description": "", 
+            "localized title": "", 
+            "location": "Bridgeport Art Center: Skyline Loft", 
+            "notes url": "", 
+            "programmatic": false, 
+            "start": "9:45am", 
+            "tags": [], 
+            "timeblock": "sat-09-45-", 
+            "title": "Skillshare Sessions"
+        },
+        {
+            "additional language": "", 
+            "category": "", 
+            "day": "Saturday", 
+            "description": "Establish goals, make decisions, plan for outcomes and co-create programs.\nActivators lead sessions to enable solutions and scope out work with participants.", 
+            "end": "11:30am", 
+            "facilitators": {
+                "1": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "2": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "3": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }
+            }, 
+            "facilitators_names": [
+                "", 
+                "", 
+                ""
+            ], 
+            "id": "8", 
+            "localized description": "", 
+            "localized title": "", 
+            "location": "Bridgeport Art Center: Skyline Loft", 
+            "notes url": "", 
+            "programmatic": false, 
+            "start": "11:30am", 
+            "tags": [], 
+            "timeblock": "sat-11-30-", 
+            "title": "Working Group Sessions"
+        },
+        {
+            "additional language": "", 
+            "category": "", 
+            "day": "Saturday", 
+            "description": "Keep the momentum going with a boxed lunch, or take a moment to yourself and eat in peace.", 
+            "end": "12:00pm", 
+            "facilitators": {
+                "1": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "2": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "3": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }
+            }, 
+            "facilitators_names": [
+                "", 
+                "", 
+                ""
+            ], 
+            "id": "9", 
+            "localized description": "", 
+            "localized title": "", 
+            "location": "Bridgeport Art Center: Skyline Loft", 
+            "notes url": "", 
+            "programmatic": false, 
+            "start": "12:00pm", 
+            "tags": [], 
+            "timeblock": "sat-12-00-", 
+            "title": "Grab 'N Go Lunch"
+        },
+        {
+            "additional language": "", 
+            "category": "", 
+            "day": "Saturday", 
+            "description": "", 
+            "end": "3:00pm", 
+            "facilitators": {
+                "1": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "2": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "3": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }
+            }, 
+            "facilitators_names": [
+                "", 
+                "", 
+                ""
+            ], 
+            "id": "10", 
+            "localized description": "", 
+            "localized title": "", 
+            "location": "Bridgeport Art Center: Skyline Loft", 
+            "notes url": "", 
+            "programmatic": false, 
+            "start": "3:00pm", 
+            "tags": [], 
+            "timeblock": "sat-15-00-", 
+            "title": "Debrief/Share out"
+        }
+    ], 
+    "timeblocks": [
+        {
+            "day": "Friday", 
+            "key": "fri-16-00-", 
+            "order": 1, 
+            "reserved for everyone": "", 
+            "start time": "16:00 ", 
+            "timeblock name": "Fri 4pm"
+        }, 
+        {
+            "day": "Friday", 
+            "key": "fri-17-30-", 
+            "order": 2, 
+            "reserved for everyone": "", 
+            "start time": "17:30 ", 
+            "timeblock name": "Fri 5:30pm"
+        },
+        {
+            "day": "Friday", 
+            "key": "fri-18-00-", 
+            "order": 3, 
+            "reserved for everyone": "", 
+            "start time": "18:00 ", 
+            "timeblock name": "Fri 6:00pm"
+        },
+        {
+            "day": "Friday", 
+            "key": "fri-18-30-", 
+            "order": 4, 
+            "reserved for everyone": "", 
+            "start time": "18:30 ", 
+            "timeblock name": "Fri 6:30pm"
+        },
+        {
+            "day": "Saturday", 
+            "key": "sat-08-00-", 
+            "order": 5, 
+            "reserved for everyone": "", 
+            "start time": "8:00 ", 
+            "timeblock name": "Sat 8:00am"
+        }, 
+        {
+            "day": "Saturday", 
+            "key": "sat-09-15-", 
+            "order": 6, 
+            "reserved for everyone": "", 
+            "start time": "9:15 ", 
+            "timeblock name": "Sat 9:15am"
+        },
+        {
+            "day": "Saturday", 
+            "key": "sat-09-45-", 
+            "order": 7, 
+            "reserved for everyone": "", 
+            "start time": "9:45 ", 
+            "timeblock name": "Sat 9:45am"
+        },
+        {
+            "day": "Saturday", 
+            "key": "sat-11-30-", 
+            "order": 8, 
+            "reserved for everyone": "", 
+            "start time": "11:30 ", 
+            "timeblock name": "Sat 11:30am"
+        },
+        {
+            "day": "Saturday", 
+            "key": "sat-12-00-", 
+            "order": 9, 
+            "reserved for everyone": "", 
+            "start time": "12:00 ", 
+            "timeblock name": "Sat 12:00pm"
+        },
+        {
+            "day": "Saturday", 
+            "key": "sat-15-00-", 
+            "order": 10, 
+            "reserved for everyone": "", 
+            "start time": "15:00 ", 
+            "timeblock name": "Sat 3:00pm"
+        }
+    ]
+}
