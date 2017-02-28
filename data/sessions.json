@@ -44,7 +44,7 @@
             "category": "", 
             "day": "Friday", 
             "description": "Light refreshments, mix and mingle.", 
-            "end": "5:30pm", 
+            "end": "6:00pm", 
             "facilitators": {
                 "1": {
                     "affiliated org": "Director, Hive Chicago", 
@@ -112,10 +112,10 @@
             "location": "Bridgeport Art Center: Sculpture Garden", 
             "notes url": "", 
             "programmatic": false, 
-            "start": "6:00pm", 
+            "start": "5:30pm", 
             "tags": [], 
-            "timeblock": "fri-18-00-", 
-            "title": "Guest Speakers"
+            "timeblock": "fri-17-30-", 
+            "title": "Remarks"
         },
         {
             "additional language": "", 
@@ -346,9 +346,9 @@
             "location": "Bridgeport Art Center: Skyline Loft", 
             "notes url": "", 
             "programmatic": false, 
-            "start": "12:00pm", 
+            "start": "11:00am", 
             "tags": [], 
-            "timeblock": "sat-12-00-", 
+            "timeblock": "sat-11-00-", 
             "title": "Grab 'N Go Lunch"
         },
         {
@@ -1538,7 +1538,7 @@
                 ""
             ],
             "timeblock": "sat-09-45-",
-            "title": "Grant writing 101"
+            "title": "RFP 101"
         },
         {
             "additional language": "",
@@ -1649,19 +1649,19 @@
         },
         {
             "day": "Saturday", 
-            "key": "sat-11-30-", 
+            "key": "sat-11-00-", 
             "order": 9, 
             "reserved for everyone": "", 
-            "start time": "11:30 ", 
-            "timeblock name": "Sat 11:30am"
+            "start time": "11:00 ", 
+            "timeblock name": "Sat 11:00am"
         },
         {
             "day": "Saturday", 
-            "key": "sat-12-00-", 
+            "key": "sat-11-30-", 
             "order": 10, 
             "reserved for everyone": "", 
-            "start time": "12:00 ", 
-            "timeblock name": "Sat 12:00pm"
+            "start time": "11:30 ", 
+            "timeblock name": "Sat 11:30am"
         },
         {
             "day": "Saturday", 
