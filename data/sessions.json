@@ -120,45 +120,6 @@
         {
             "additional language": "", 
             "category": "", 
-            "day": "Friday", 
-            "description": "", 
-            "end": "6:30pm", 
-            "facilitators": {
-                "1": {
-                    "affiliated org": "", 
-                    "name": "", 
-                    "twitter": ""
-                }, 
-                "2": {
-                    "affiliated org": "", 
-                    "name": "", 
-                    "twitter": ""
-                }, 
-                "3": {
-                    "affiliated org": "", 
-                    "name": "", 
-                    "twitter": ""
-                }
-            }, 
-            "facilitators_names": [
-                "", 
-                "", 
-                ""
-            ], 
-            "id": "4", 
-            "localized description": "", 
-            "localized title": "", 
-            "location": "Bridgeport Art Center: Sculpture Garden", 
-            "notes url": "", 
-            "programmatic": false, 
-            "start": "6:30pm", 
-            "tags": [], 
-            "timeblock": "fri-18-30-", 
-            "title": "Network with Hive Chicago Members"
-        },
-        {
-            "additional language": "", 
-            "category": "", 
             "day": "Saturday", 
             "description": "Coffee, light breakfast, mix and mingle.", 
             "end": "8:00am", 
