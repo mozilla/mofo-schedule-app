@@ -199,7 +199,7 @@
     <!-- template used in [tags] list view -->
     <script type="text/template" id="tags-list-template">
       <p>
-        Pathways are a set of sessions curated by interest, topic or technology that will help you explore a variety of Spaces.
+        Moonshots
       </p>
       <% tags.forEach(function(tag) { %>
       <a class="tag-list-item" data-tag="<%- slugify(tag.name) %>" href="#_<%- customTagLabel %>-<%- slugify(tag.name) %>">
@@ -227,12 +227,12 @@
           plural: '' // this can only be one word
         },
         displayNameForTag: {
-          singular:'', // this can only be one word
-          plural: '' // this can only be one word
+          singular:'moonshot', // this can only be one word
+          plural: 'moonshots' // this can only be one word
         },
         pathToSessionsJson: 'data/sessions.json',
         // pathToCategoriesJson: 'data/moonshots.json',
-        // pathToTagsJson: 'data/pathways.json',
+        pathToTagsJson: 'data/moonshots.json',
         localStoragePrefix: 'hive-buzz-2017',
         tabList: [
           { name: 'Friday', displayName: 'Fri', tabDate: new Date(2016,2,17) },

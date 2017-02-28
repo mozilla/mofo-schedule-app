@@ -44,7 +44,7 @@
             "category": "", 
             "day": "Friday", 
             "description": "Light refreshments, mix and mingle.", 
-            "end": "5:30pm", 
+            "end": "6:00pm", 
             "facilitators": {
                 "1": {
                     "affiliated org": "Director, Hive Chicago", 
@@ -112,49 +112,10 @@
             "location": "Bridgeport Art Center: Sculpture Garden", 
             "notes url": "", 
             "programmatic": false, 
-            "start": "6:00pm", 
+            "start": "5:30pm", 
             "tags": [], 
-            "timeblock": "fri-18-00-", 
-            "title": "Guest Speakers"
-        },
-        {
-            "additional language": "", 
-            "category": "", 
-            "day": "Friday", 
-            "description": "", 
-            "end": "6:30pm", 
-            "facilitators": {
-                "1": {
-                    "affiliated org": "", 
-                    "name": "", 
-                    "twitter": ""
-                }, 
-                "2": {
-                    "affiliated org": "", 
-                    "name": "", 
-                    "twitter": ""
-                }, 
-                "3": {
-                    "affiliated org": "", 
-                    "name": "", 
-                    "twitter": ""
-                }
-            }, 
-            "facilitators_names": [
-                "", 
-                "", 
-                ""
-            ], 
-            "id": "4", 
-            "localized description": "", 
-            "localized title": "", 
-            "location": "Bridgeport Art Center: Sculpture Garden", 
-            "notes url": "", 
-            "programmatic": false, 
-            "start": "6:30pm", 
-            "tags": [], 
-            "timeblock": "fri-18-30-", 
-            "title": "Network with Hive Chicago Members"
+            "timeblock": "fri-17-30-", 
+            "title": "Remarks"
         },
         {
             "additional language": "", 
@@ -346,9 +307,9 @@
             "location": "Bridgeport Art Center: Skyline Loft", 
             "notes url": "", 
             "programmatic": false, 
-            "start": "12:00pm", 
+            "start": "11:00am", 
             "tags": [], 
-            "timeblock": "sat-12-00-", 
+            "timeblock": "sat-11-00-", 
             "title": "Grab 'N Go Lunch"
         },
         {
@@ -389,6 +350,1197 @@
             "tags": [], 
             "timeblock": "sat-15-00-", 
             "title": "Debrief/Share out"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "You’re invited to attend a skillshare to learn more about Rec2Tech Pittsburgh. Join The Sprout Fund (Pittsburgh) to explore how communities and local government are responding to Former President Obama’s Nation of Makers initiative.",
+            "end": "10:30am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "Ani Martinez- Sprout Fund",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Ani Martinez- Sprout Fund",
+                "",
+                ""
+            ],
+            "id": "12",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 1",
+            "notes url": "",
+            "programmatic": false,
+            "start": "9:45am",
+            "tags": [
+                "Access"
+            ],
+            "timeblock": "sat-09-45-",
+            "title": "Rec2Tech: Integrating Digital Literacy in Municipal Spaces"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "",
+            "end": "",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "",
+                "",
+                ""
+            ],
+            "id": "13",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space ",
+            "notes url": "",
+            "programmatic": false,
+            "start": "",
+            "tags": [
+                ""
+            ],
+            "timeblock": "",
+            "title": "How to be a Skillful Ally"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Learn easy tips to reducing your online data trails.",
+            "end": "10:30am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "Bex Hurwitz & Sarah Aoun- RAD (Research Action Design)",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Bex Hurwitz & Sarah Aoun- RAD (Research Action Design)",
+                "",
+                ""
+            ],
+            "id": "14",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 2",
+            "notes url": "",
+            "programmatic": false,
+            "start": "9:45am",
+            "tags": [
+                "Access"
+            ],
+            "timeblock": "sat-09-45-",
+            "title": "Reducing Your Data Trail"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Learn the latest programming data from Chicago City of Learning and how you can get involved.",
+            "end": "10:30am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "Sybil Boyd- Chicago City of Learning/DYN ",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Sybil Boyd- Chicago City of Learning/DYN ",
+                "",
+                ""
+            ],
+            "id": "15",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 4",
+            "notes url": "",
+            "programmatic": false,
+            "start": "9:45am",
+            "tags": [
+                "Access"
+            ],
+            "timeblock": "sat-09-45-",
+            "title": "State of CCOL"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "This session will share the intention of conducting a study to understand the landscape of digital media use (and goals for that use) in Chicago.",
+            "end": "10:30am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "Jeanne Century- Outlier",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Jeanne Century- Outlier",
+                "",
+                ""
+            ],
+            "id": "16",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 5",
+            "notes url": "",
+            "programmatic": false,
+            "start": "9:45am",
+            "tags": [
+                "Think Tank"
+            ],
+            "timeblock": "sat-09-45-",
+            "title": "What are you doing, how are you getting there and how will you know when you arrived?"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Data Management , Not Just For Developers. Learn how to effectively collect, manage, and report your data from the perspective of an educator, data manager, and developer.",
+            "end": "10:30am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "Karen Jeffrey",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Karen Jeffrey",
+                "",
+                ""
+            ],
+            "id": "17",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 6",
+            "notes url": "",
+            "programmatic": false,
+            "start": "9:45am",
+            "tags": [
+                "Think Tank"
+            ],
+            "timeblock": "sat-09-45-",
+            "title": "Designing a Data System- A Three Dimensional Skill-Share (Educator, Data Manager, and Developer/Coder)"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Hear an overview of and ask questions about the \"Future Directions\" report for Hive Chicago",
+            "end": "11:30am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "Jeanne Century",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Jeanne Century",
+                "",
+                ""
+            ],
+            "id": "18",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 1",
+            "notes url": "",
+            "programmatic": false,
+            "start": "10:45am",
+            "tags": [
+                "Think Tank"
+            ],
+            "timeblock": "sat-10-45-",
+            "title": "Where is Hive Going? The \"Future Directions for Hive Chicago\" Report"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "This session will focus on using the work of FUSE as a case study for how an informal organization can work successfully with schools and teachers to increase its impact and reach more young people.",
+            "end": "11:30am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "Henry Mann",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Henry Mann",
+                "",
+                ""
+            ],
+            "id": "19",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 2",
+            "notes url": "",
+            "programmatic": false,
+            "start": "10:45am",
+            "tags": [
+                "School Hive"
+            ],
+            "timeblock": "sat-10-45-",
+            "title": "Formalizing the informal: Lessons learned from FUSE’s journey into the school day."
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Join Bex and Sarah to learn about the daily data trails of youth and useful toold to protect it. ",
+            "end": "11:30am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "Bex Hurwitz & Sarah Aoun- RAD (Research Action Design)",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Bex Hurwitz & Sarah Aoun- RAD (Research Action Design)",
+                "",
+                ""
+            ],
+            "id": "20",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 3",
+            "notes url": "",
+            "programmatic": false,
+            "start": "10:45am",
+            "tags": [
+                "Think Tank"
+            ],
+            "timeblock": "sat-10-45-",
+            "title": "A Day in the Life of Youth Data"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "The Chicago Architecture Foundation will share their experience designing and producing their Discover Design Platform.",
+            "end": "11:30am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "Gina Grant & Edge Quintanilla- Chicago Architecture Foundation",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Gina Grant & Edge Quintanilla- Chicago Architecture Foundation",
+                "",
+                ""
+            ],
+            "id": "21",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 4",
+            "notes url": "",
+            "programmatic": false,
+            "start": "10:45am",
+            "tags": [
+                "Access"
+            ],
+            "timeblock": "sat-10-45-",
+            "title": "Designing an Open Platform Website to Meet the Needs of a Network "
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Need some new and refreshing activities for programs? Come learn about GeoConvos!",
+            "end": "11:30am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "Jaclyn Carmichael & Nathan Phillips- Project Exploration & UIC ",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Jaclyn Carmichael & Nathan Phillips- Project Exploration & UIC ",
+                "",
+                ""
+            ],
+            "id": "22",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 5",
+            "notes url": "",
+            "programmatic": false,
+            "start": "10:45am",
+            "tags": [
+                "Think Tank"
+            ],
+            "timeblock": "sat-10-45-",
+            "title": "Geo Convos"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Learn about Hive Toronto's \"by youth, for educators\" cyberbullying project. A resource to help educators have better conversations about cyber bullying.  ",
+            "end": "11:30am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "Simona Ramkinsson",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Simona Ramkinsson",
+                "",
+                ""
+            ],
+            "id": "23",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 6",
+            "notes url": "",
+            "programmatic": false,
+            "start": "10:45am",
+            "tags": [
+                "Youth Voice"
+            ],
+            "timeblock": "sat-10-45-",
+            "title": "The Ca.pture Project"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Switch a circuit between being on and off, different values in different cultures and different backgrounds with culturally-responsive, tactile electronics!",
+            "end": "11:15am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "Jeff Sweeton, Laura Brandon & Christian David - Code Create Technology Education",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Jeff Sweeton, Laura Brandon & Christian David - Code Create Technology Education",
+                "",
+                ""
+            ],
+            "id": "24",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 7",
+            "notes url": "",
+            "programmatic": false,
+            "start": "9:45am",
+            "tags": [
+                "Youth Voice",
+                "Access"
+            ],
+            "timeblock": "sat-09-45-",
+            "title": "Youth in Motion"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Building from the “Better living through online security & encryption” guidelines (bit.ly/cryptochecklist), this session will teach participants how to protect their online activities, communications, and information in their own lives and in the context of working with immigrant/refugee/undocumented youth.",
+            "end": "11:15am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "Cat Greim & Gabi Voicu- CHI Hack Night",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Cat Greim & Gabi Voicu- CHI Hack Night",
+                "",
+                ""
+            ],
+            "id": "25",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 8",
+            "notes url": "",
+            "programmatic": false,
+            "start": "9:45am",
+            "tags": [
+                "Community Engagement"
+            ],
+            "timeblock": "sat-09-45-",
+            "title": "Organizational Digital Security 101"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "The future of PD is participatory, teacher-powered + choice-based. BYOD to this hands-on workshop and learn to curate resource collections, organize EdChats and build online PD courses w/ participate.com.",
+            "end": "11:15am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "Brad Spirrinson & Mindy Faber- Participate.com & Convergence DesignLab",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Brad Spirrinson & Mindy Faber- Participate.com & Convergence DesignLab",
+                "",
+                ""
+            ],
+            "id": "26",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 9",
+            "notes url": "",
+            "programmatic": false,
+            "start": "9:45am",
+            "tags": [
+                "School Hive"
+            ],
+            "timeblock": "sat-09-45-",
+            "title": "Twitter Chats, EdCamps and Digital Badging: How To Build a Collaborative Learning Network "
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Learn tips for effective social media campaigns  for a specific target audience with focused messaging and interesting content.",
+            "end": "11:15am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "Lesley Etherly - Contexture Media Network",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Lesley Etherly - Contexture Media Network",
+                "",
+                ""
+            ],
+            "id": "27",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 10",
+            "notes url": "",
+            "programmatic": false,
+            "start": "9:45am",
+            "tags": [
+                "Think Tank"
+            ],
+            "timeblock": "sat-09-45-",
+            "title": "Best Practices for Developoing Social Media Campagins"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Session will provide an overview of the Smart Chicago Collaborative-Youth Led Tech program.",
+            "end": "11:15am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "Monica Swope & Anthony Smith- SMART Chicago",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Monica Swope & Anthony Smith- SMART Chicago",
+                "",
+                ""
+            ],
+            "id": "28",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 11",
+            "notes url": "",
+            "programmatic": false,
+            "start": "9:45am",
+            "tags": [
+                "Youth Voice"
+            ],
+            "timeblock": "sat-09-45-",
+            "title": "Youth Led Tech: Technology in the Context of Needs and Entrepreneurship "
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Join the Mozilla Gigabit team for a workshop focused on demystifying high speed internet and helping you take advantage of Chicago’s high speed networks.",
+            "end": "3:00pm",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "Chad Sansing & Jenn Beard",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Chad Sansing & Jenn Beard",
+                "",
+                ""
+            ],
+            "id": "29",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 2",
+            "notes url": "",
+            "programmatic": false,
+            "start": "11:30am",
+            "tags": [
+                "Access"
+            ],
+            "timeblock": "sat-11-30-",
+            "title": "Harnessing High Speed Internet for Your Community "
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Creating constructive collaborative interactions between teachers and youth serving organizations.",
+            "end": "3:00pm",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "Generation All & School Hive Moonshot",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Generation All & School Hive Moonshot",
+                "",
+                ""
+            ],
+            "id": "30",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 4",
+            "notes url": "",
+            "programmatic": false,
+            "start": "11:30am",
+            "tags": [
+                "School Hive"
+            ],
+            "timeblock": "sat-11-30-",
+            "title": "How might we best reach/access teachers to collaborate and provide professional development and educational resources?”"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Sometimes we fail to deliver for teens. Let's learn from those challenges and use this working group to better incorporate Youth Voice into our programming.",
+            "end": "3:00pm",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "Wade Berger",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Wade Berger",
+                "",
+                ""
+            ],
+            "id": "31",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 1",
+            "notes url": "",
+            "programmatic": false,
+            "start": "11:30am",
+            "tags": [
+                "Youth Voice"
+            ],
+            "timeblock": "sat-11-30-",
+            "title": "Youth Voice: When We've Failed the Youths"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Apply #SystemsThinking as an approach to mapping & supporting a neighborhood level learning network in Austin with community stakeholders.",
+            "end": "3:00pm",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "Natasha Walk & Jameela Jafri",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Natasha Walk & Jameela Jafri",
+                "",
+                ""
+            ],
+            "id": "32",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 5",
+            "notes url": "",
+            "programmatic": false,
+            "start": "11:30am",
+            "tags": [
+                "Access"
+            ],
+            "timeblock": "sat-11-30-",
+            "title": "Ecosystem Building in Austin and Beyond"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Everyone's an expert in something, how about we learn how to share it through our Hive Network? Help us to develop a Hive Peer Learning Community!",
+            "end": "3:00pm",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "Jaclyn Carmichael & Kenyatta Forbes",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Jaclyn Carmichael & Kenyatta Forbes",
+                "",
+                ""
+            ],
+            "id": "33",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 6",
+            "notes url": "",
+            "programmatic": false,
+            "start": "11:30am",
+            "tags": [
+                "Think Tank"
+            ],
+            "timeblock": "sat-11-30-",
+            "title": "Developing a Peer Learning Community"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "How is Chicago a sanctuary city for youth? We want to bring together teachers, stakeholders, youth, civic agents to: \nFigure out sustainable ways to pay all youth without compromising the statuses of undocumented youth.\n",
+            "end": "3:00pm",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "Rosy Lugo & Andrea Hart- Adler PLanetarium & City Bureau",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Rosy Lugo & Andrea Hart- Adler PLanetarium & City Bureau",
+                "",
+                ""
+            ],
+            "id": "34",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 3",
+            "notes url": "",
+            "programmatic": false,
+            "start": "11:30am",
+            "tags": [
+                "Quality of Life"
+            ],
+            "timeblock": "sat-11-30-",
+            "title": "Supporting Undocumented Youth in a Sanctuary City"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "The Bronzeville Fusion Network will be providing 4 days of programming (100 slots a day) for students attending 1 of 6 schools in the Bronzeville neighborhood. Learn how you can get involved!",
+            "end": "3:00pm",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "Nichole Pinkard- Digital Youth Network/DePaul University",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Nichole Pinkard- Digital Youth Network/DePaul University",
+                "",
+                ""
+            ],
+            "id": "35",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 7",
+            "notes url": "",
+            "programmatic": false,
+            "start": "11:30am",
+            "tags": [
+                "Access",
+                "Community Engagement"
+            ],
+            "timeblock": "sat-11-30-",
+            "title": "DYN's Bronzeville Fusion Network"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Space 8 is for  from skillshares that are turning into project ideation and need more time and space to geek out!",
+            "end": "3:00pm",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "OPEN",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "OPEN",
+                "",
+                ""
+            ],
+            "id": "36",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 8",
+            "notes url": "",
+            "programmatic": false,
+            "start": "11:30am",
+            "tags": [
+                "ALL"
+            ],
+            "timeblock": "sat-11-30-",
+            "title": "Renegade- the skillshare that just can't stop"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Join IMPACT and NVAM as we share community Project that activate Quality of Life Moonshot goals, share best practices, and make some art with us!",
+            "end": "3:00pm",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "Christine Bespalec & Marsha Eaglin",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Christine Bespalec & Marsha Eaglin",
+                "",
+                ""
+            ],
+            "id": "37",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 9",
+            "notes url": "",
+            "programmatic": false,
+            "start": "11:30am",
+            "tags": [
+                "Quality of Life"
+            ],
+            "timeblock": "sat-11-30-",
+            "title": "Quality of Life In Focus: Activating Community Through Open Dialogue, Art and Technology"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "",
+            "end": "",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "",
+                "",
+                ""
+            ],
+            "id": "38",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space ",
+            "notes url": "",
+            "programmatic": false,
+            "start": "",
+            "tags": [
+                ""
+            ],
+            "timeblock": "",
+            "title": ""
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "",
+            "end": "10:30am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "Sana",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Sana",
+                "",
+                ""
+            ],
+            "id": "39",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space Chill Out Space",
+            "notes url": "",
+            "programmatic": false,
+            "start": "9:45am",
+            "tags": [
+                ""
+            ],
+            "timeblock": "sat-09-45-",
+            "title": "RFP 101"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "",
+            "end": "11:30am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "Parva",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Parva",
+                "",
+                ""
+            ],
+            "id": "40",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space Chill Out Space",
+            "notes url": "",
+            "programmatic": false,
+            "start": "10:45am",
+            "tags": [
+                ""
+            ],
+            "timeblock": "sat-10-45-",
+            "title": "101 Stories"
         }
     ], 
     "timeblocks": [
@@ -450,24 +1602,32 @@
         },
         {
             "day": "Saturday", 
-            "key": "sat-11-30-", 
+            "key": "sat-10-45-", 
             "order": 8, 
+            "reserved for everyone": "", 
+            "start time": "10:45 ", 
+            "timeblock name": "Sat 10:45am"
+        },
+        {
+            "day": "Saturday", 
+            "key": "sat-11-00-", 
+            "order": 9, 
+            "reserved for everyone": "", 
+            "start time": "11:00 ", 
+            "timeblock name": "Sat 11:00am"
+        },
+        {
+            "day": "Saturday", 
+            "key": "sat-11-30-", 
+            "order": 10, 
             "reserved for everyone": "", 
             "start time": "11:30 ", 
             "timeblock name": "Sat 11:30am"
         },
         {
             "day": "Saturday", 
-            "key": "sat-12-00-", 
-            "order": 9, 
-            "reserved for everyone": "", 
-            "start time": "12:00 ", 
-            "timeblock name": "Sat 12:00pm"
-        },
-        {
-            "day": "Saturday", 
             "key": "sat-15-00-", 
-            "order": 10, 
+            "order": 11, 
             "reserved for everyone": "", 
             "start time": "15:00 ", 
             "timeblock name": "Sat 3:00pm"
