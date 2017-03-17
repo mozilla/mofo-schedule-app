@@ -37,7 +37,7 @@
             "start": "4:00pm", 
             "tags": [], 
             "timeblock": "fri-16-00-", 
-            "title": "Doors Open, Registration, & Science Fair"
+            "title": "Doors Open & Registration"
         },
         {
             "additional language": "", 
@@ -361,7 +361,7 @@
                 "1": {
                     "affiliated org": "Sprout Fund",
                     "name": "Ani Martinez",
-                    "twitter": ""
+                    "twitter": "@theAniMartinez"
                 },
                 "2": {
                     "affiliated org": "",
@@ -562,14 +562,14 @@
             "end": "10:30am",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
+                    "affiliated org": "For All Systems",
                     "name": "Karen Jeffrey",
                     "twitter": ""
                 },
                 "2": {
-                    "affiliated org": "",
-                    "name": "",
-                    "twitter": ""
+                    "affiliated org": "Chicago Botanic Gardens",
+                    "name": "Amaris Alanis Ribeiro",
+                    "twitter": "@chicagobotanic"
                 },
                 "3": {
                     "affiliated org": "",
@@ -579,7 +579,7 @@
             },
             "facilitators_names": [
                 "Karen Jeffrey",
-                "",
+                "Amaris Alanis Ribeiro",
                 ""
             ],
             "id": "17",
@@ -644,7 +644,7 @@
             "end": "11:30am",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
+                    "affiliated org": "FUSE | OSEP @ Northwestern University",
                     "name": "Henry Mann",
                     "twitter": "@FUSE_levelup"
                 },
@@ -737,14 +737,14 @@
                 },
                 "3": {
                     "affiliated org": "",
-                    "name": "",
+                    "name": "Gabrielle Lyon",
                     "twitter": ""
                 }
             },
             "facilitators_names": [
                 "Gina Grant",
                 "Edge Quintanilla",
-                ""
+                "Gabrielle Lyon"
             ],
             "id": "21",
             "localized description": "",
@@ -769,7 +769,7 @@
                 "1": {
                     "affiliated org": "Project Exploration & UIC",
                     "name": "Jaclyn Carmichael",
-                    "twitter": "@novelgal0117"
+                    "twitter": "@ProjExplore"
                 },
                 "2": {
                     "affiliated org": "Project Exploration & UIC",
@@ -1096,8 +1096,8 @@
             "end": "3:00pm",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
-                    "name": "Generation All",
+                    "affiliated org": "Generation All",
+                    "name": "Misuzu Schexnider",
                     "twitter": "@generation__all"
                 },
                 "2": {
@@ -1106,15 +1106,15 @@
                     "twitter": ""
                 },
                 "3": {
-                    "affiliated org": "",
-                    "name": "",
-                    "twitter": ""
+                    "affiliated org": "NEIU CCAS",
+                    "name": "Meghan Hausman",
+                    "twitter": "@CCAS_NEIU"
                 }
             },
             "facilitators_names": [
-                "Generation All",
+                "Misuzu Schexnider",
                 "School Hive Moonshot",
-                ""
+                "Meghan Hausman"
             ],
             "id": "30",
             "localized description": "",
@@ -1137,7 +1137,7 @@
             "end": "3:00pm",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
+                    "affiliated org": "Shedd Aquarium",
                     "name": "Wade Berger",
                     "twitter": "@wadeatshedd"
                 },
@@ -1221,12 +1221,12 @@
                 "1": {
                     "affiliated org": "Project Exploration & UIC",
                     "name": "Jaclyn Carmichael",
-                    "twitter": "@novelgal0117"
+                    "twitter": "@ProjExplore"
                 },
                 "2": {
                     "affiliated org": "Hive Chicago",
                     "name": "Kenyatta Forbes",
-                    "twitter": ""
+                    "twitter": "@Kenyatta_Forbes"
                 },
                 "3": {
                     "affiliated org": "",
@@ -1380,13 +1380,13 @@
             "additional language": "",
             "category": "",
             "day": "Saturday",
-            "description": "Join IMPACT and NVAM as we share community Project that activate Quality of Life Moonshot goals, share best practices, and make some art with us!",
+            "description": "Join IMPACT and NVAM as we share community Project that activates Quality of Life Moonshot goals-- share best practices and make some art with us!",
             "end": "3:00pm",
             "facilitators": {
                 "1": {
                     "affiliated org": "National Veterans Art Museum",
                     "name": "Christine Bespalec",
-                    "twitter": "@kris.bd"
+                    "twitter": "@krisbd"
                 },
                 "2": {
                     "affiliated org": "IMPACT Family Center",
@@ -1499,28 +1499,28 @@
             "additional language": "",
             "category": "",
             "day": "Saturday",
-            "description": "",
+            "description": "Identify the “who, what, when, where, how, and why” to ignite your ideas and your potential with 100 Dreams, 100 Stories!",
             "end": "11:30am",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
-                    "name": "Parva",
-                    "twitter": ""
+                    "affiliated org": "Chicago Global Shapers and Let's Vibe",
+                    "name": "Parvathi Santhosh-Kumar",
+                    "twitter": "@GlobalShapers"
                 },
                 "2": {
                     "affiliated org": "",
-                    "name": "",
-                    "twitter": ""
+                    "name": "Diamond Greer",
+                    "twitter": "@GlobalShapers"
                 },
                 "3": {
-                    "affiliated org": "",
+                    "affiliated org": "Chicago Global Shapers and Let's Vibe",
                     "name": "",
                     "twitter": ""
                 }
             },
             "facilitators_names": [
-                "Parva",
-                "",
+                "Parvathi Santhosh-Kumar",
+                "Diamond Greer",
                 ""
             ],
             "id": "40",
@@ -1530,9 +1530,50 @@
             "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-101-stories",
             "programmatic": false,
             "start": "10:45am",
-            "tags": [],
+            "tags": [
+                "Youth Voice"
+            ],
             "timeblock": "sat-10-45-",
-            "title": "101 Stories"
+            "title": "100 Dreams, 100 Stories: A Pop-Up Experience Igniting Ideas and Action for Young Women"
+        },
+        {
+            "additional language": "", 
+            "category": "", 
+            "day": "Friday", 
+            "description": "Join us for our Hive Chicago Buzz Science Fair- leading organizations and institutions from Chicago’s education landscape will share their work including Sweetwater Foundation, NEIU’s Maker Space, Maker Mob and Make Take Teach Fair, the Lincoln Park Zoo, Chicago Architecture Foundation, Yollocalli Arts Reach, STEAM STUDIO, SMART Chicago, Code Create, Mozilla’s Digital Security Advocates plus more! Make sure you join Bit Bash to play some indie video games and Mozilla’s Virtual Reality Room.", 
+            "end": "4:00pm", 
+            "facilitators": {
+                "1": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "2": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "3": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }
+            }, 
+            "facilitators_names": [
+                "", 
+                "", 
+                ""
+            ], 
+            "id": "41", 
+            "localized description": "", 
+            "localized title": "", 
+            "location": "Bridgeport Art Center: Sculpture Garden", 
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-science-fair", 
+            "programmatic": false, 
+            "start": "4:00pm", 
+            "tags": [], 
+            "timeblock": "fri-16-00-", 
+            "title": "Science Fair"
         }
     ], 
     "timeblocks": [
