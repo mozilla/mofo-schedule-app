@@ -1,0 +1,11 @@
+Fri Mar 17 2017 11:37:46 GMT-0700 (PDT)
+
+
+commit c130333da002916c58084d19d104ddd203c95cea
+Merge: 5242b87 d1bc60b
+Author: Mavis Ou <mmmavis@users.noreply.github.com>
+Date:   Fri Mar 17 11:36:43 2017 -0700
+
+    Merge pull request #52 from mozilla/issue-46-facilitator-twitter-handle
+    
+    Added facilitators Twitter handles

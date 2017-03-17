@@ -1,0 +1,1669 @@
+{
+    "sessions": [
+        {
+            "additional language": "", 
+            "category": "", 
+            "day": "Friday", 
+            "description": "Light refreshments, mix and mingle.", 
+            "end": "4:00pm", 
+            "facilitators": {
+                "1": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "2": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "3": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }
+            }, 
+            "facilitators_names": [
+                "", 
+                "", 
+                ""
+            ], 
+            "id": "1", 
+            "localized description": "", 
+            "localized title": "", 
+            "location": "Bridgeport Art Center: Sculpture Garden", 
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-doors-open-registration-science-fair", 
+            "programmatic": false, 
+            "start": "4:00pm", 
+            "tags": [], 
+            "timeblock": "fri-16-00-", 
+            "title": "Doors Open & Registration"
+        },
+        {
+            "additional language": "", 
+            "category": "", 
+            "day": "Friday", 
+            "description": "Light refreshments, mix and mingle.", 
+            "end": "6:00pm", 
+            "facilitators": {
+                "1": {
+                    "affiliated org": "Director, Hive Chicago", 
+                    "name": "Sam Dyson", 
+                    "twitter": ""
+                }, 
+                "2": {
+                    "affiliated org": "Portfolio Strategist, Hive Chicago", 
+                    "name": "Brenda Hernandez", 
+                    "twitter": ""
+                }, 
+                "3": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }
+            }, 
+            "facilitators_names": [
+                "Sam Dyson", 
+                "Brenda Hernandez", 
+                ""
+            ], 
+            "id": "2", 
+            "localized description": "", 
+            "localized title": "", 
+            "location": "Bridgeport Art Center: Sculpture Garden", 
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-rfp-share-out", 
+            "programmatic": false, 
+            "start": "5:30pm", 
+            "tags": [], 
+            "timeblock": "fri-17-30-", 
+            "title": "RFP Share Out"
+        },
+        {
+            "additional language": "", 
+            "category": "", 
+            "day": "Friday", 
+            "description": "", 
+            "end": "6:00pm", 
+            "facilitators": {
+                "1": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "2": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "3": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }
+            }, 
+            "facilitators_names": [
+                "", 
+                "", 
+                ""
+            ], 
+            "id": "3", 
+            "localized description": "", 
+            "localized title": "", 
+            "location": "Bridgeport Art Center: Sculpture Garden", 
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-remarks", 
+            "programmatic": false, 
+            "start": "5:30pm", 
+            "tags": [], 
+            "timeblock": "fri-17-30-", 
+            "title": "Remarks"
+        },
+        {
+            "additional language": "", 
+            "category": "", 
+            "day": "Saturday", 
+            "description": "Coffee, light breakfast, mix and mingle.", 
+            "end": "8:00am", 
+            "facilitators": {
+                "1": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "2": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "3": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }
+            }, 
+            "facilitators_names": [
+                "", 
+                "", 
+                ""
+            ], 
+            "id": "5", 
+            "localized description": "", 
+            "localized title": "", 
+            "location": "Bridgeport Art Center: Skyline Loft", 
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-doors-open-registration", 
+            "programmatic": false, 
+            "start": "8:00am", 
+            "tags": [], 
+            "timeblock": "sat-08-00-", 
+            "title": "Doors Open & Registration"
+        },
+        {
+            "additional language": "", 
+            "category": "", 
+            "day": "Saturday", 
+            "description": "get fired up and ready to activate our community", 
+            "end": "9:15am", 
+            "facilitators": {
+                "1": {
+                    "affiliated org": "Hive Chicago", 
+                    "name": "Kenyatta Forbes", 
+                    "twitter": ""
+                }, 
+                "2": {
+                    "affiliated org": "Hive Chicago", 
+                    "name": "Sam Dyson", 
+                    "twitter": ""
+                }, 
+                "3": {
+                    "affiliated org": "Hive Chicago", 
+                    "name": "Brenda Hernandez", 
+                    "twitter": ""
+                }
+            }, 
+            "facilitators_names": [
+                "Kenyatta Forbes", 
+                "Sam Dyson", 
+                "Brenda Hernandez"
+            ], 
+            "id": "6", 
+            "localized description": "", 
+            "localized title": "", 
+            "location": "Bridgeport Art Center: Skyline Loft", 
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-welcome-orientation", 
+            "programmatic": false, 
+            "start": "9:15am", 
+            "tags": [], 
+            "timeblock": "sat-09-15-", 
+            "title": "Welcome Orientation"
+        },
+        {
+            "additional language": "", 
+            "category": "", 
+            "day": "Saturday", 
+            "description": "Join workshops on tools, strategies and best practices lead by Hive members and friends.\nWorkshops help introduce new ideas that might support solution designs during the hack day.", 
+            "end": "9:45am", 
+            "facilitators": {
+                "1": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "2": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "3": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }
+            }, 
+            "facilitators_names": [
+                "", 
+                "", 
+                ""
+            ], 
+            "id": "7", 
+            "localized description": "", 
+            "localized title": "", 
+            "location": "Bridgeport Art Center: Skyline Loft", 
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-skillshare-sessions", 
+            "programmatic": false, 
+            "start": "9:45am", 
+            "tags": [], 
+            "timeblock": "sat-09-45-", 
+            "title": "Skillshare Sessions"
+        },
+        {
+            "additional language": "", 
+            "category": "", 
+            "day": "Saturday", 
+            "description": "Establish goals, make decisions, plan for outcomes and co-create programs.\nActivators lead sessions to enable solutions and scope out work with participants.", 
+            "end": "11:30am", 
+            "facilitators": {
+                "1": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "2": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "3": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }
+            }, 
+            "facilitators_names": [
+                "", 
+                "", 
+                ""
+            ], 
+            "id": "8", 
+            "localized description": "", 
+            "localized title": "", 
+            "location": "Bridgeport Art Center: Skyline Loft", 
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-working-group-sessions", 
+            "programmatic": false, 
+            "start": "11:30am", 
+            "tags": [], 
+            "timeblock": "sat-11-30-", 
+            "title": "Working Group Sessions"
+        },
+        {
+            "additional language": "", 
+            "category": "", 
+            "day": "Saturday", 
+            "description": "Keep the momentum going with a boxed lunch, or take a moment to yourself and eat in peace.", 
+            "end": "12:00pm", 
+            "facilitators": {
+                "1": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "2": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "3": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }
+            }, 
+            "facilitators_names": [
+                "", 
+                "", 
+                ""
+            ], 
+            "id": "9", 
+            "localized description": "", 
+            "localized title": "", 
+            "location": "Bridgeport Art Center: Skyline Loft", 
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-grab-n-go-lunch", 
+            "programmatic": false, 
+            "start": "11:00am", 
+            "tags": [], 
+            "timeblock": "sat-11-00-", 
+            "title": "Grab 'N Go Lunch"
+        },
+        {
+            "additional language": "", 
+            "category": "", 
+            "day": "Saturday", 
+            "description": "", 
+            "end": "3:00pm", 
+            "facilitators": {
+                "1": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "2": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "3": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }
+            }, 
+            "facilitators_names": [
+                "", 
+                "", 
+                ""
+            ], 
+            "id": "10", 
+            "localized description": "", 
+            "localized title": "", 
+            "location": "Bridgeport Art Center: Skyline Loft", 
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-debrief-share-out", 
+            "programmatic": false, 
+            "start": "3:00pm", 
+            "tags": [], 
+            "timeblock": "sat-15-00-", 
+            "title": "Debrief/Share out"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "You’re invited to attend a skillshare to learn more about Rec2Tech Pittsburgh. Join The Sprout Fund (Pittsburgh) to explore how communities and local government are responding to Former President Obama’s Nation of Makers initiative.",
+            "end": "10:30am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "Sprout Fund",
+                    "name": "Ani Martinez",
+                    "twitter": "@theAniMartinez"
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Ani Martinez",
+                "",
+                ""
+            ],
+            "id": "12",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 1",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-rec2tech-integrating-digital-literacy-in-",
+            "programmatic": false,
+            "start": "9:45am",
+            "tags": [
+                "Access"
+            ],
+            "timeblock": "sat-09-45-",
+            "title": "Rec2Tech: Integrating Digital Literacy in Municipal Spaces"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "",
+            "end": "",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "",
+                "",
+                ""
+            ],
+            "id": "13",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space ",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-how-to-be-a-skillful-ally",
+            "programmatic": false,
+            "start": "",
+            "tags": [],
+            "timeblock": "",
+            "title": "How to be a Skillful Ally"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Learn easy tips to reducing your online data trails.",
+            "end": "10:30am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "RAD (Research Action Design)",
+                    "name": "Bex Hurwitz",
+                    "twitter": "@bxhrz"
+                },
+                "2": {
+                    "affiliated org": "RAD (Research Action Design)",
+                    "name": "Sarah Aoun",
+                    "twitter": "@sa0un"
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Bex Hurwitz",
+                "Sarah Aoun",
+                ""
+            ],
+            "id": "14",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 2",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-reducing-your-data-trail",
+            "programmatic": false,
+            "start": "9:45am",
+            "tags": [
+                "Access"
+            ],
+            "timeblock": "sat-09-45-",
+            "title": "Reducing Your Data Trail"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Learn the latest programming data from Chicago City of Learning and how you can get involved.",
+            "end": "10:30am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "Chicago City of Learning/DYN",
+                    "name": "Sybil Boyd",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Sybil Boyd",
+                "",
+                ""
+            ],
+            "id": "15",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 4",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-state-of-ccol",
+            "programmatic": false,
+            "start": "9:45am",
+            "tags": [
+                "Access"
+            ],
+            "timeblock": "sat-09-45-",
+            "title": "State of CCOL"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "This session will share the intention of conducting a study to understand the landscape of digital media use (and goals for that use) in Chicago.",
+            "end": "10:30am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "Outlier",
+                    "name": "Jeanne Century",
+                    "twitter": "@outlieruchicago"
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Jeanne Century",
+                "",
+                ""
+            ],
+            "id": "16",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 5",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-what-are-you-doing-how-are-you-getting-th",
+            "programmatic": false,
+            "start": "9:45am",
+            "tags": [
+                "Think Tank"
+            ],
+            "timeblock": "sat-09-45-",
+            "title": "What are you doing, how are you getting there and how will you know when you arrived?"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Data Management , Not Just For Developers. Learn how to effectively collect, manage, and report your data from the perspective of an educator, data manager, and developer.",
+            "end": "10:30am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "For All Systems",
+                    "name": "Karen Jeffrey",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "Chicago Botanic Gardens",
+                    "name": "Amaris Alanis Ribeiro",
+                    "twitter": "@chicagobotanic"
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Karen Jeffrey",
+                "Amaris Alanis Ribeiro",
+                ""
+            ],
+            "id": "17",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 6",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-designing-a-data-system-a-three-dimension",
+            "programmatic": false,
+            "start": "9:45am",
+            "tags": [
+                "Think Tank"
+            ],
+            "timeblock": "sat-09-45-",
+            "title": "Designing a Data System- A Three Dimensional Skill-Share (Educator, Data Manager, and Developer/Coder)"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Hear an overview of and ask questions about the \"Future Directions\" report for Hive Chicago",
+            "end": "11:30am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "Outlier",
+                    "name": "Jeanne Century",
+                    "twitter": "@outlieruchicago"
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Jeanne Century",
+                "",
+                ""
+            ],
+            "id": "18",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 1",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-where-is-hive-going-the-future-directions",
+            "programmatic": false,
+            "start": "10:45am",
+            "tags": [
+                "Think Tank"
+            ],
+            "timeblock": "sat-10-45-",
+            "title": "Where is Hive Going? The \"Future Directions for Hive Chicago\" Report"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "This session will focus on using the work of FUSE as a case study for how an informal organization can work successfully with schools and teachers to increase its impact and reach more young people.",
+            "end": "11:30am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "FUSE | OSEP @ Northwestern University",
+                    "name": "Henry Mann",
+                    "twitter": "@FUSE_levelup"
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Henry Mann",
+                "",
+                ""
+            ],
+            "id": "19",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 2",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-formalizing-the-informal-lessons-learned-",
+            "programmatic": false,
+            "start": "10:45am",
+            "tags": [
+                "School Hive"
+            ],
+            "timeblock": "sat-10-45-",
+            "title": "Formalizing the informal: Lessons learned from FUSE’s journey into the school day."
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Join Bex and Sarah to learn about the daily data trails of youth and useful toold to protect it. ",
+            "end": "11:30am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "RAD (Research Action Design)",
+                    "name": "Bex Hurwitz",
+                    "twitter": "@bxhrz"
+                },
+                "2": {
+                    "affiliated org": "RAD (Research Action Design)",
+                    "name": "Sarah Aoun",
+                    "twitter": "@sa0un"
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Bex Hurwitz",
+                "Sarah Aoun",
+                ""
+            ],
+            "id": "20",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 3",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-a-day-in-the-life-of-youth-data",
+            "programmatic": false,
+            "start": "10:45am",
+            "tags": [
+                "Think Tank"
+            ],
+            "timeblock": "sat-10-45-",
+            "title": "A Day in the Life of Youth Data"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "The Chicago Architecture Foundation will share their experience designing and producing their Discover Design Platform.",
+            "end": "11:30am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "Chicago Architecture Foundation",
+                    "name": "Gina Grant",
+                    "twitter": "@GinaGrant20"
+                },
+                "2": {
+                    "affiliated org": "Chicago Architecture Foundation",
+                    "name": "Edge Quintanilla",
+                    "twitter": "@edgeq_"
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "Gabrielle Lyon",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Gina Grant",
+                "Edge Quintanilla",
+                "Gabrielle Lyon"
+            ],
+            "id": "21",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 4",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-designing-an-open-platform-website-to-mee",
+            "programmatic": false,
+            "start": "10:45am",
+            "tags": [
+                "Access"
+            ],
+            "timeblock": "sat-10-45-",
+            "title": "Designing an Open Platform Website to Meet the Needs of a Network "
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Need some new and refreshing activities for programs? Come learn about GeoConvos!",
+            "end": "11:30am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "Project Exploration & UIC",
+                    "name": "Jaclyn Carmichael",
+                    "twitter": "@ProjExplore"
+                },
+                "2": {
+                    "affiliated org": "Project Exploration & UIC",
+                    "name": "Nathan Phillips",
+                    "twitter": "@nathancphillips"
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Jaclyn Carmichael",
+                "Nathan Phillips",
+                ""
+            ],
+            "id": "22",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 5",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-geo-convos",
+            "programmatic": false,
+            "start": "10:45am",
+            "tags": [
+                "Think Tank"
+            ],
+            "timeblock": "sat-10-45-",
+            "title": "Geo Convos"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Learn about Hive Toronto's \"by youth, for educators\" cyberbullying project. A resource to help educators have better conversations about cyber bullying.  ",
+            "end": "11:30am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "Hive Toronto ",
+                    "name": "Simona Ramkinsson",
+                    "twitter": "@HiveToronto"
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Simona Ramkinsson",
+                "",
+                ""
+            ],
+            "id": "23",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 6",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-the-ca-pture-project",
+            "programmatic": false,
+            "start": "10:45am",
+            "tags": [
+                "Youth Voice"
+            ],
+            "timeblock": "sat-10-45-",
+            "title": "The Ca.pture Project"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Switch a circuit between being on and off, different values in different cultures and different backgrounds with culturally-responsive, tactile electronics!",
+            "end": "11:15am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "Code Create Technology Education",
+                    "name": "Jeff Sweeton",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "Code Create Technology Education",
+                    "name": "Laura Brandon",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "Code Create Technology Education",
+                    "name": "Christian David",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Jeff Sweeton",
+                "Laura Brandon",
+                "Christian David"
+            ],
+            "id": "24",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 7",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-youth-in-motion",
+            "programmatic": false,
+            "start": "9:45am",
+            "tags": [
+                "Youth Voice",
+                "Access"
+            ],
+            "timeblock": "sat-09-45-",
+            "title": "Youth in Motion"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Building from the “Better living through online security & encryption” guidelines (bit.ly/cryptochecklist), this session will teach participants how to protect their online activities, communications, and information in their own lives and in the context of working with immigrant/refugee/undocumented youth.",
+            "end": "11:15am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "CHI Hack Night",
+                    "name": "Cat Greim",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "CHI Hack Night",
+                    "name": "Gabi Voicu",
+                    "twitter": "@gabi__voicu"
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Cat Greim",
+                "Gabi Voicu",
+                ""
+            ],
+            "id": "25",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 8",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-organizational-digital-security-101",
+            "programmatic": false,
+            "start": "9:45am",
+            "tags": [
+                "Community Engagement"
+            ],
+            "timeblock": "sat-09-45-",
+            "title": "Organizational Digital Security 101"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "The future of PD is participatory, teacher-powered + choice-based. BYOD to this hands-on workshop and learn to curate resource collections, organize EdChats and build online PD courses w/ participate.com.",
+            "end": "11:15am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "Participate.com",
+                    "name": "Brad Spirrison",
+                    "twitter": "@spirrison"
+                },
+                "2": {
+                    "affiliated org": "Convergence DesignLab",
+                    "name": "Mindy Faber",
+                    "twitter": "@convergencedlab"
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Brad Spirrinson",
+                "Mindy Faber",
+                ""
+            ],
+            "id": "26",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 9",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-twitter-chats-edcamps-and-digital-badging",
+            "programmatic": false,
+            "start": "9:45am",
+            "tags": [
+                "School Hive"
+            ],
+            "timeblock": "sat-09-45-",
+            "title": "Twitter Chats, EdCamps and Digital Badging: How To Build a Collaborative Learning Network "
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Learn tips for effective social media campaigns  for a specific target audience with focused messaging and interesting content.",
+            "end": "11:15am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "Contexture Media Network",
+                    "name": "Lesley Etherly",
+                    "twitter": "@contexturetv"
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Lesley Etherly",
+                "",
+                ""
+            ],
+            "id": "27",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 10",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-best-practices-for-developoing-social-med",
+            "programmatic": false,
+            "start": "9:45am",
+            "tags": [
+                "Think Tank"
+            ],
+            "timeblock": "sat-09-45-",
+            "title": "Best Practices for Developoing Social Media Campagins"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Session will provide an overview of the Smart Chicago Collaborative-Youth Led Tech program.",
+            "end": "11:15am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "SMART Chicago",
+                    "name": "Monica Swope",
+                    "twitter": "@SmartChicago"
+                },
+                "2": {
+                    "affiliated org": "SMART Chicago",
+                    "name": "Anthony Smith",
+                    "twitter": "@SmartChicago"
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Monica Swope",
+                "Anthony Smith",
+                ""
+            ],
+            "id": "28",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 11",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-youth-led-tech-technology-in-the-context-",
+            "programmatic": false,
+            "start": "9:45am",
+            "tags": [
+                "Youth Voice"
+            ],
+            "timeblock": "sat-09-45-",
+            "title": "Youth Led Tech: Technology in the Context of Needs and Entrepreneurship "
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Join the Mozilla Gigabit team for a workshop focused on demystifying high speed internet and helping you take advantage of Chicago’s high speed networks.",
+            "end": "3:00pm",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "Mozilla",
+                    "name": "Chad Sansing",
+                    "twitter": "@chadsansing"
+                },
+                "2": {
+                    "affiliated org": "Mozilla",
+                    "name": "Jenn Beard",
+                    "twitter": "@jenntbeard"
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Chad Sansing",
+                "Jenn Beard",
+                ""
+            ],
+            "id": "29",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 2",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-harnessing-high-speed-internet-for-your-c",
+            "programmatic": false,
+            "start": "11:30am",
+            "tags": [
+                "Access"
+            ],
+            "timeblock": "sat-11-30-",
+            "title": "Harnessing High Speed Internet for Your Community "
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Creating constructive collaborative interactions between teachers and youth serving organizations.",
+            "end": "3:00pm",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "Generation All",
+                    "name": "Misuzu Schexnider",
+                    "twitter": "@generation__all"
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "School Hive Moonshot",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "NEIU CCAS",
+                    "name": "Meghan Hausman",
+                    "twitter": "@CCAS_NEIU"
+                }
+            },
+            "facilitators_names": [
+                "Misuzu Schexnider",
+                "School Hive Moonshot",
+                "Meghan Hausman"
+            ],
+            "id": "30",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 4",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-how-might-we-best-reach-access-teachers-t",
+            "programmatic": false,
+            "start": "11:30am",
+            "tags": [
+                "School Hive"
+            ],
+            "timeblock": "sat-11-30-",
+            "title": "How might we best reach/access teachers to collaborate and provide professional development and educational resources?”"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Sometimes we fail to deliver for teens. Let's learn from those challenges and use this working group to better incorporate Youth Voice into our programming.",
+            "end": "3:00pm",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "Shedd Aquarium",
+                    "name": "Wade Berger",
+                    "twitter": "@wadeatshedd"
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Wade Berger",
+                "",
+                ""
+            ],
+            "id": "31",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 1",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-youth-voice-when-we-ve-failed-the-youths",
+            "programmatic": false,
+            "start": "11:30am",
+            "tags": [
+                "Youth Voice"
+            ],
+            "timeblock": "sat-11-30-",
+            "title": "Youth Voice: When We've Failed the Youths"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Apply #SystemsThinking as an approach to mapping & supporting a neighborhood level learning network in Austin with community stakeholders.",
+            "end": "3:00pm",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "Project Exploration",
+                    "name": "Natasha Walk",
+                    "twitter": "@ProjExplore"
+                },
+                "2": {
+                    "affiliated org": "Project Exploration",
+                    "name": "Jameela Jafri",
+                    "twitter": "@JameelaJafri"
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Natasha Walk",
+                "Jameela Jafri",
+                ""
+            ],
+            "id": "32",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 5",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-ecosystem-building-in-austin-and-beyond",
+            "programmatic": false,
+            "start": "11:30am",
+            "tags": [
+                "Access"
+            ],
+            "timeblock": "sat-11-30-",
+            "title": "Ecosystem Building in Austin and Beyond"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Everyone's an expert in something, how about we learn how to share it through our Hive Network? Help us to develop a Hive Peer Learning Community!",
+            "end": "3:00pm",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "Project Exploration & UIC",
+                    "name": "Jaclyn Carmichael",
+                    "twitter": "@ProjExplore"
+                },
+                "2": {
+                    "affiliated org": "Hive Chicago",
+                    "name": "Kenyatta Forbes",
+                    "twitter": "@Kenyatta_Forbes"
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Jaclyn Carmichael",
+                "Kenyatta Forbes",
+                ""
+            ],
+            "id": "33",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 6",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-developing-a-peer-learning-community",
+            "programmatic": false,
+            "start": "11:30am",
+            "tags": [
+                "Think Tank"
+            ],
+            "timeblock": "sat-11-30-",
+            "title": "Developing a Peer Learning Community"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "How is Chicago a sanctuary city for youth? We want to bring together teachers, stakeholders, youth, civic agents to: \nFigure out sustainable ways to pay all youth without compromising the statuses of undocumented youth.\n",
+            "end": "3:00pm",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "Adler Planetarium",
+                    "name": "Rosy Lugo",
+                    "twitter": "@jubilee292"
+                },
+                "2": {
+                    "affiliated org": "City Bureau",
+                    "name": "Andrea Hart",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Rosy Lugo",
+                "Andrea Hart",
+                ""
+            ],
+            "id": "34",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 3",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-supporting-undocumented-youth-in-a-sanctu",
+            "programmatic": false,
+            "start": "11:30am",
+            "tags": [
+                "Quality of Life"
+            ],
+            "timeblock": "sat-11-30-",
+            "title": "Supporting Undocumented Youth in a Sanctuary City"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "The Bronzeville Fusion Network will be providing 4 days of programming (100 slots a day) for students attending 1 of 6 schools in the Bronzeville neighborhood. Learn how you can get involved!",
+            "end": "3:00pm",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "Nichole Pinkard",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Nichole Pinkard",
+                "",
+                ""
+            ],
+            "id": "35",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 7",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-dyn-s-bronzeville-fusion-network",
+            "programmatic": false,
+            "start": "11:30am",
+            "tags": [
+                "Access",
+                "Community Engagement"
+            ],
+            "timeblock": "sat-11-30-",
+            "title": "DYN's Bronzeville Fusion Network"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Space 8 is for  from skillshares that are turning into project ideation and need more time and space to geek out!",
+            "end": "3:00pm",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "",
+                "",
+                ""
+            ],
+            "id": "36",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 8",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-renegade-the-skillshare-that-just-can-t-s",
+            "programmatic": false,
+            "start": "11:30am",
+            "tags": [
+                "ALL"
+            ],
+            "timeblock": "sat-11-30-",
+            "title": "Renegade- the skillshare that just can't stop"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Join IMPACT and NVAM as we share community Project that activates Quality of Life Moonshot goals-- share best practices and make some art with us!",
+            "end": "3:00pm",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "National Veterans Art Museum",
+                    "name": "Christine Bespalec",
+                    "twitter": "@krisbd"
+                },
+                "2": {
+                    "affiliated org": "IMPACT Family Center",
+                    "name": "Marsha Eaglin",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Christine Bespalec",
+                "Marsha Eaglin",
+                ""
+            ],
+            "id": "37",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space 9",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-quality-of-life-in-focus-activating-commu",
+            "programmatic": false,
+            "start": "11:30am",
+            "tags": [
+                "Quality of Life"
+            ],
+            "timeblock": "sat-11-30-",
+            "title": "Quality of Life In Focus: Activating Community Through Open Dialogue, Art and Technology"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "",
+            "end": "",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "",
+                "",
+                ""
+            ],
+            "id": "38",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space ",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-",
+            "programmatic": false,
+            "start": "",
+            "tags": [],
+            "timeblock": "",
+            "title": ""
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "",
+            "end": "10:30am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "The Hive Chicago Fund for Connected Learning at The Chicago Community Trust",
+                    "name": "Sana Jafri",
+                    "twitter": "@jafs31"
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                },
+                "3": {
+                    "affiliated org": "",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Sana Jafri",
+                "",
+                ""
+            ],
+            "id": "39",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space Chill Out Space",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-rfp-101",
+            "programmatic": false,
+            "start": "9:45am",
+            "tags": [],
+            "timeblock": "sat-09-45-",
+            "title": "RFP 101"
+        },
+        {
+            "additional language": "",
+            "category": "",
+            "day": "Saturday",
+            "description": "Identify the “who, what, when, where, how, and why” to ignite your ideas and your potential with 100 Dreams, 100 Stories!",
+            "end": "11:30am",
+            "facilitators": {
+                "1": {
+                    "affiliated org": "Chicago Global Shapers and Let's Vibe",
+                    "name": "Parvathi Santhosh-Kumar",
+                    "twitter": "@GlobalShapers"
+                },
+                "2": {
+                    "affiliated org": "",
+                    "name": "Diamond Greer",
+                    "twitter": "@GlobalShapers"
+                },
+                "3": {
+                    "affiliated org": "Chicago Global Shapers and Let's Vibe",
+                    "name": "",
+                    "twitter": ""
+                }
+            },
+            "facilitators_names": [
+                "Parvathi Santhosh-Kumar",
+                "Diamond Greer",
+                ""
+            ],
+            "id": "40",
+            "localized description": "",
+            "localized title": "",
+            "location": "Hive Chicago Buzz Space Chill Out Space",
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-101-stories",
+            "programmatic": false,
+            "start": "10:45am",
+            "tags": [
+                "Youth Voice"
+            ],
+            "timeblock": "sat-10-45-",
+            "title": "100 Dreams, 100 Stories: A Pop-Up Experience Igniting Ideas and Action for Young Women"
+        },
+        {
+            "additional language": "", 
+            "category": "", 
+            "day": "Friday", 
+            "description": "Join us for our Hive Chicago Buzz Science Fair- leading organizations and institutions from Chicago’s education landscape will share their work including Sweetwater Foundation, NEIU’s Maker Space, Maker Mob and Make Take Teach Fair, the Lincoln Park Zoo, Chicago Architecture Foundation, Yollocalli Arts Reach, STEAM STUDIO, SMART Chicago, Code Create, Mozilla’s Digital Security Advocates plus more! Make sure you join Bit Bash to play some indie video games and Mozilla’s Virtual Reality Room.", 
+            "end": "4:00pm", 
+            "facilitators": {
+                "1": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "2": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "3": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }
+            }, 
+            "facilitators_names": [
+                "", 
+                "", 
+                ""
+            ], 
+            "id": "41", 
+            "localized description": "", 
+            "localized title": "", 
+            "location": "Bridgeport Art Center: Sculpture Garden", 
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-science-fair", 
+            "programmatic": false, 
+            "start": "4:00pm", 
+            "tags": [], 
+            "timeblock": "fri-16-00-", 
+            "title": "Science Fair"
+        }
+    ], 
+    "timeblocks": [
+        {
+            "day": "Friday", 
+            "key": "fri-16-00-", 
+            "order": 1, 
+            "reserved for everyone": "", 
+            "start time": "16:00 ", 
+            "timeblock name": "Fri 4pm"
+        }, 
+        {
+            "day": "Friday", 
+            "key": "fri-17-30-", 
+            "order": 2, 
+            "reserved for everyone": "", 
+            "start time": "17:30 ", 
+            "timeblock name": "Fri 5:30pm"
+        },
+        {
+            "day": "Friday", 
+            "key": "fri-18-00-", 
+            "order": 3, 
+            "reserved for everyone": "", 
+            "start time": "18:00 ", 
+            "timeblock name": "Fri 6:00pm"
+        },
+        {
+            "day": "Friday", 
+            "key": "fri-18-30-", 
+            "order": 4, 
+            "reserved for everyone": "", 
+            "start time": "18:30 ", 
+            "timeblock name": "Fri 6:30pm"
+        },
+        {
+            "day": "Saturday", 
+            "key": "sat-08-00-", 
+            "order": 5, 
+            "reserved for everyone": "", 
+            "start time": "8:00 ", 
+            "timeblock name": "Sat 8:00am"
+        }, 
+        {
+            "day": "Saturday", 
+            "key": "sat-09-15-", 
+            "order": 6, 
+            "reserved for everyone": "", 
+            "start time": "9:15 ", 
+            "timeblock name": "Sat 9:15am"
+        },
+        {
+            "day": "Saturday", 
+            "key": "sat-09-45-", 
+            "order": 7, 
+            "reserved for everyone": "", 
+            "start time": "9:45 ", 
+            "timeblock name": "Sat 9:45am"
+        },
+        {
+            "day": "Saturday", 
+            "key": "sat-10-45-", 
+            "order": 8, 
+            "reserved for everyone": "", 
+            "start time": "10:45 ", 
+            "timeblock name": "Sat 10:45am"
+        },
+        {
+            "day": "Saturday", 
+            "key": "sat-11-00-", 
+            "order": 9, 
+            "reserved for everyone": "", 
+            "start time": "11:00 ", 
+            "timeblock name": "Sat 11:00am"
+        },
+        {
+            "day": "Saturday", 
+            "key": "sat-11-30-", 
+            "order": 10, 
+            "reserved for everyone": "", 
+            "start time": "11:30 ", 
+            "timeblock name": "Sat 11:30am"
+        },
+        {
+            "day": "Saturday", 
+            "key": "sat-15-00-", 
+            "order": 11, 
+            "reserved for everyone": "", 
+            "start time": "15:00 ", 
+            "timeblock name": "Sat 3:00pm"
+        }
+    ]
+}
