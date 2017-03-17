@@ -37,7 +37,7 @@
             "start": "4:00pm", 
             "tags": [], 
             "timeblock": "fri-16-00-", 
-            "title": "Doors Open, Registration, & Science Fair"
+            "title": "Doors Open & Registration"
         },
         {
             "additional language": "", 
@@ -359,9 +359,9 @@
             "end": "10:30am",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
-                    "name": "Ani Martinez- Sprout Fund",
-                    "twitter": ""
+                    "affiliated org": "Sprout Fund",
+                    "name": "Ani Martinez",
+                    "twitter": "@theAniMartinez"
                 },
                 "2": {
                     "affiliated org": "",
@@ -375,7 +375,7 @@
                 }
             },
             "facilitators_names": [
-                "Ani Martinez- Sprout Fund",
+                "Ani Martinez",
                 "",
                 ""
             ],
@@ -427,9 +427,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-how-to-be-a-skillful-ally",
             "programmatic": false,
             "start": "",
-            "tags": [
-                ""
-            ],
+            "tags": [],
             "timeblock": "",
             "title": "How to be a Skillful Ally"
         },
@@ -441,14 +439,14 @@
             "end": "10:30am",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
-                    "name": "Bex Hurwitz & Sarah Aoun- RAD (Research Action Design)",
-                    "twitter": ""
+                    "affiliated org": "RAD (Research Action Design)",
+                    "name": "Bex Hurwitz",
+                    "twitter": "@bxhrz"
                 },
                 "2": {
-                    "affiliated org": "",
-                    "name": "",
-                    "twitter": ""
+                    "affiliated org": "RAD (Research Action Design)",
+                    "name": "Sarah Aoun",
+                    "twitter": "@sa0un"
                 },
                 "3": {
                     "affiliated org": "",
@@ -457,8 +455,8 @@
                 }
             },
             "facilitators_names": [
-                "Bex Hurwitz & Sarah Aoun- RAD (Research Action Design)",
-                "",
+                "Bex Hurwitz",
+                "Sarah Aoun",
                 ""
             ],
             "id": "14",
@@ -482,8 +480,8 @@
             "end": "10:30am",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
-                    "name": "Sybil Boyd- Chicago City of Learning/DYN ",
+                    "affiliated org": "Chicago City of Learning/DYN",
+                    "name": "Sybil Boyd",
                     "twitter": ""
                 },
                 "2": {
@@ -498,7 +496,7 @@
                 }
             },
             "facilitators_names": [
-                "Sybil Boyd- Chicago City of Learning/DYN ",
+                "Sybil Boyd",
                 "",
                 ""
             ],
@@ -523,9 +521,9 @@
             "end": "10:30am",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
-                    "name": "Jeanne Century- Outlier",
-                    "twitter": ""
+                    "affiliated org": "Outlier",
+                    "name": "Jeanne Century",
+                    "twitter": "@outlieruchicago"
                 },
                 "2": {
                     "affiliated org": "",
@@ -539,7 +537,7 @@
                 }
             },
             "facilitators_names": [
-                "Jeanne Century- Outlier",
+                "Jeanne Century",
                 "",
                 ""
             ],
@@ -564,14 +562,14 @@
             "end": "10:30am",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
+                    "affiliated org": "For All Systems",
                     "name": "Karen Jeffrey",
                     "twitter": ""
                 },
                 "2": {
-                    "affiliated org": "",
-                    "name": "",
-                    "twitter": ""
+                    "affiliated org": "Chicago Botanic Gardens",
+                    "name": "Amaris Alanis Ribeiro",
+                    "twitter": "@chicagobotanic"
                 },
                 "3": {
                     "affiliated org": "",
@@ -581,7 +579,7 @@
             },
             "facilitators_names": [
                 "Karen Jeffrey",
-                "",
+                "Amaris Alanis Ribeiro",
                 ""
             ],
             "id": "17",
@@ -605,9 +603,9 @@
             "end": "11:30am",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
+                    "affiliated org": "Outlier",
                     "name": "Jeanne Century",
-                    "twitter": ""
+                    "twitter": "@outlieruchicago"
                 },
                 "2": {
                     "affiliated org": "",
@@ -646,9 +644,9 @@
             "end": "11:30am",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
+                    "affiliated org": "FUSE | OSEP @ Northwestern University",
                     "name": "Henry Mann",
-                    "twitter": ""
+                    "twitter": "@FUSE_levelup"
                 },
                 "2": {
                     "affiliated org": "",
@@ -687,14 +685,14 @@
             "end": "11:30am",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
-                    "name": "Bex Hurwitz & Sarah Aoun- RAD (Research Action Design)",
-                    "twitter": ""
+                    "affiliated org": "RAD (Research Action Design)",
+                    "name": "Bex Hurwitz",
+                    "twitter": "@bxhrz"
                 },
                 "2": {
-                    "affiliated org": "",
-                    "name": "",
-                    "twitter": ""
+                    "affiliated org": "RAD (Research Action Design)",
+                    "name": "Sarah Aoun",
+                    "twitter": "@sa0un"
                 },
                 "3": {
                     "affiliated org": "",
@@ -703,8 +701,8 @@
                 }
             },
             "facilitators_names": [
-                "Bex Hurwitz & Sarah Aoun- RAD (Research Action Design)",
-                "",
+                "Bex Hurwitz",
+                "Sarah Aoun",
                 ""
             ],
             "id": "20",
@@ -728,25 +726,25 @@
             "end": "11:30am",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
-                    "name": "Gina Grant & Edge Quintanilla- Chicago Architecture Foundation",
-                    "twitter": ""
+                    "affiliated org": "Chicago Architecture Foundation",
+                    "name": "Gina Grant",
+                    "twitter": "@GinaGrant20"
                 },
                 "2": {
-                    "affiliated org": "",
-                    "name": "",
-                    "twitter": ""
+                    "affiliated org": "Chicago Architecture Foundation",
+                    "name": "Edge Quintanilla",
+                    "twitter": "@edgeq_"
                 },
                 "3": {
                     "affiliated org": "",
-                    "name": "",
+                    "name": "Gabrielle Lyon",
                     "twitter": ""
                 }
             },
             "facilitators_names": [
-                "Gina Grant & Edge Quintanilla- Chicago Architecture Foundation",
-                "",
-                ""
+                "Gina Grant",
+                "Edge Quintanilla",
+                "Gabrielle Lyon"
             ],
             "id": "21",
             "localized description": "",
@@ -769,14 +767,14 @@
             "end": "11:30am",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
-                    "name": "Jaclyn Carmichael & Nathan Phillips- Project Exploration & UIC ",
-                    "twitter": ""
+                    "affiliated org": "Project Exploration & UIC",
+                    "name": "Jaclyn Carmichael",
+                    "twitter": "@ProjExplore"
                 },
                 "2": {
-                    "affiliated org": "",
-                    "name": "",
-                    "twitter": ""
+                    "affiliated org": "Project Exploration & UIC",
+                    "name": "Nathan Phillips",
+                    "twitter": "@nathancphillips"
                 },
                 "3": {
                     "affiliated org": "",
@@ -785,8 +783,8 @@
                 }
             },
             "facilitators_names": [
-                "Jaclyn Carmichael & Nathan Phillips- Project Exploration & UIC ",
-                "",
+                "Jaclyn Carmichael",
+                "Nathan Phillips",
                 ""
             ],
             "id": "22",
@@ -810,9 +808,9 @@
             "end": "11:30am",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
+                    "affiliated org": "Hive Toronto ",
                     "name": "Simona Ramkinsson",
-                    "twitter": ""
+                    "twitter": "@HiveToronto"
                 },
                 "2": {
                     "affiliated org": "",
@@ -851,25 +849,25 @@
             "end": "11:15am",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
-                    "name": "Jeff Sweeton, Laura Brandon & Christian David - Code Create Technology Education",
+                    "affiliated org": "Code Create Technology Education",
+                    "name": "Jeff Sweeton",
                     "twitter": ""
                 },
                 "2": {
-                    "affiliated org": "",
-                    "name": "",
+                    "affiliated org": "Code Create Technology Education",
+                    "name": "Laura Brandon",
                     "twitter": ""
                 },
                 "3": {
-                    "affiliated org": "",
-                    "name": "",
+                    "affiliated org": "Code Create Technology Education",
+                    "name": "Christian David",
                     "twitter": ""
                 }
             },
             "facilitators_names": [
-                "Jeff Sweeton, Laura Brandon & Christian David - Code Create Technology Education",
-                "",
-                ""
+                "Jeff Sweeton",
+                "Laura Brandon",
+                "Christian David"
             ],
             "id": "24",
             "localized description": "",
@@ -893,14 +891,14 @@
             "end": "11:15am",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
-                    "name": "Cat Greim & Gabi Voicu- CHI Hack Night",
+                    "affiliated org": "CHI Hack Night",
+                    "name": "Cat Greim",
                     "twitter": ""
                 },
                 "2": {
-                    "affiliated org": "",
-                    "name": "",
-                    "twitter": ""
+                    "affiliated org": "CHI Hack Night",
+                    "name": "Gabi Voicu",
+                    "twitter": "@gabi__voicu"
                 },
                 "3": {
                     "affiliated org": "",
@@ -909,8 +907,8 @@
                 }
             },
             "facilitators_names": [
-                "Cat Greim & Gabi Voicu- CHI Hack Night",
-                "",
+                "Cat Greim",
+                "Gabi Voicu",
                 ""
             ],
             "id": "25",
@@ -934,14 +932,14 @@
             "end": "11:15am",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
-                    "name": "Brad Spirrinson & Mindy Faber- Participate.com & Convergence DesignLab",
-                    "twitter": ""
+                    "affiliated org": "Participate.com",
+                    "name": "Brad Spirrison",
+                    "twitter": "@spirrison"
                 },
                 "2": {
-                    "affiliated org": "",
-                    "name": "",
-                    "twitter": ""
+                    "affiliated org": "Convergence DesignLab",
+                    "name": "Mindy Faber",
+                    "twitter": "@convergencedlab"
                 },
                 "3": {
                     "affiliated org": "",
@@ -950,8 +948,8 @@
                 }
             },
             "facilitators_names": [
-                "Brad Spirrinson & Mindy Faber- Participate.com & Convergence DesignLab",
-                "",
+                "Brad Spirrinson",
+                "Mindy Faber",
                 ""
             ],
             "id": "26",
@@ -975,9 +973,9 @@
             "end": "11:15am",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
-                    "name": "Lesley Etherly - Contexture Media Network",
-                    "twitter": ""
+                    "affiliated org": "Contexture Media Network",
+                    "name": "Lesley Etherly",
+                    "twitter": "@contexturetv"
                 },
                 "2": {
                     "affiliated org": "",
@@ -991,7 +989,7 @@
                 }
             },
             "facilitators_names": [
-                "Lesley Etherly - Contexture Media Network",
+                "Lesley Etherly",
                 "",
                 ""
             ],
@@ -1016,14 +1014,14 @@
             "end": "11:15am",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
-                    "name": "Monica Swope & Anthony Smith- SMART Chicago",
-                    "twitter": ""
+                    "affiliated org": "SMART Chicago",
+                    "name": "Monica Swope",
+                    "twitter": "@SmartChicago"
                 },
                 "2": {
-                    "affiliated org": "",
-                    "name": "",
-                    "twitter": ""
+                    "affiliated org": "SMART Chicago",
+                    "name": "Anthony Smith",
+                    "twitter": "@SmartChicago"
                 },
                 "3": {
                     "affiliated org": "",
@@ -1032,8 +1030,8 @@
                 }
             },
             "facilitators_names": [
-                "Monica Swope & Anthony Smith- SMART Chicago",
-                "",
+                "Monica Swope",
+                "Anthony Smith",
                 ""
             ],
             "id": "28",
@@ -1057,14 +1055,14 @@
             "end": "3:00pm",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
-                    "name": "Chad Sansing & Jenn Beard",
-                    "twitter": ""
+                    "affiliated org": "Mozilla",
+                    "name": "Chad Sansing",
+                    "twitter": "@chadsansing"
                 },
                 "2": {
-                    "affiliated org": "",
-                    "name": "",
-                    "twitter": ""
+                    "affiliated org": "Mozilla",
+                    "name": "Jenn Beard",
+                    "twitter": "@jenntbeard"
                 },
                 "3": {
                     "affiliated org": "",
@@ -1073,8 +1071,8 @@
                 }
             },
             "facilitators_names": [
-                "Chad Sansing & Jenn Beard",
-                "",
+                "Chad Sansing",
+                "Jenn Beard",
                 ""
             ],
             "id": "29",
@@ -1098,25 +1096,25 @@
             "end": "3:00pm",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
-                    "name": "Generation All & School Hive Moonshot",
-                    "twitter": ""
+                    "affiliated org": "Generation All",
+                    "name": "Misuzu Schexnider",
+                    "twitter": "@generation__all"
                 },
                 "2": {
                     "affiliated org": "",
-                    "name": "",
+                    "name": "School Hive Moonshot",
                     "twitter": ""
                 },
                 "3": {
-                    "affiliated org": "",
-                    "name": "",
-                    "twitter": ""
+                    "affiliated org": "NEIU CCAS",
+                    "name": "Meghan Hausman",
+                    "twitter": "@CCAS_NEIU"
                 }
             },
             "facilitators_names": [
-                "Generation All & School Hive Moonshot",
-                "",
-                ""
+                "Misuzu Schexnider",
+                "School Hive Moonshot",
+                "Meghan Hausman"
             ],
             "id": "30",
             "localized description": "",
@@ -1139,9 +1137,9 @@
             "end": "3:00pm",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
+                    "affiliated org": "Shedd Aquarium",
                     "name": "Wade Berger",
-                    "twitter": ""
+                    "twitter": "@wadeatshedd"
                 },
                 "2": {
                     "affiliated org": "",
@@ -1180,14 +1178,14 @@
             "end": "3:00pm",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
-                    "name": "Natasha Walk & Jameela Jafri",
-                    "twitter": ""
+                    "affiliated org": "Project Exploration",
+                    "name": "Natasha Walk",
+                    "twitter": "@ProjExplore"
                 },
                 "2": {
-                    "affiliated org": "",
-                    "name": "",
-                    "twitter": ""
+                    "affiliated org": "Project Exploration",
+                    "name": "Jameela Jafri",
+                    "twitter": "@JameelaJafri"
                 },
                 "3": {
                     "affiliated org": "",
@@ -1196,8 +1194,8 @@
                 }
             },
             "facilitators_names": [
-                "Natasha Walk & Jameela Jafri",
-                "",
+                "Natasha Walk",
+                "Jameela Jafri",
                 ""
             ],
             "id": "32",
@@ -1221,14 +1219,14 @@
             "end": "3:00pm",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
-                    "name": "Jaclyn Carmichael & Kenyatta Forbes",
-                    "twitter": ""
+                    "affiliated org": "Project Exploration & UIC",
+                    "name": "Jaclyn Carmichael",
+                    "twitter": "@ProjExplore"
                 },
                 "2": {
-                    "affiliated org": "",
-                    "name": "",
-                    "twitter": ""
+                    "affiliated org": "Hive Chicago",
+                    "name": "Kenyatta Forbes",
+                    "twitter": "@Kenyatta_Forbes"
                 },
                 "3": {
                     "affiliated org": "",
@@ -1237,8 +1235,8 @@
                 }
             },
             "facilitators_names": [
-                "Jaclyn Carmichael & Kenyatta Forbes",
-                "",
+                "Jaclyn Carmichael",
+                "Kenyatta Forbes",
                 ""
             ],
             "id": "33",
@@ -1262,13 +1260,13 @@
             "end": "3:00pm",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
-                    "name": "Rosy Lugo & Andrea Hart- Adler PLanetarium & City Bureau",
-                    "twitter": ""
+                    "affiliated org": "Adler Planetarium",
+                    "name": "Rosy Lugo",
+                    "twitter": "@jubilee292"
                 },
                 "2": {
-                    "affiliated org": "",
-                    "name": "",
+                    "affiliated org": "City Bureau",
+                    "name": "Andrea Hart",
                     "twitter": ""
                 },
                 "3": {
@@ -1278,8 +1276,8 @@
                 }
             },
             "facilitators_names": [
-                "Rosy Lugo & Andrea Hart- Adler PLanetarium & City Bureau",
-                "",
+                "Rosy Lugo",
+                "Andrea Hart",
                 ""
             ],
             "id": "34",
@@ -1304,7 +1302,7 @@
             "facilitators": {
                 "1": {
                     "affiliated org": "",
-                    "name": "Nichole Pinkard- Digital Youth Network/DePaul University",
+                    "name": "Nichole Pinkard",
                     "twitter": ""
                 },
                 "2": {
@@ -1319,7 +1317,7 @@
                 }
             },
             "facilitators_names": [
-                "Nichole Pinkard- Digital Youth Network/DePaul University",
+                "Nichole Pinkard",
                 "",
                 ""
             ],
@@ -1346,7 +1344,7 @@
             "facilitators": {
                 "1": {
                     "affiliated org": "",
-                    "name": "OPEN",
+                    "name": "",
                     "twitter": ""
                 },
                 "2": {
@@ -1361,7 +1359,7 @@
                 }
             },
             "facilitators_names": [
-                "OPEN",
+                "",
                 "",
                 ""
             ],
@@ -1382,17 +1380,17 @@
             "additional language": "",
             "category": "",
             "day": "Saturday",
-            "description": "Join IMPACT and NVAM as we share community Project that activate Quality of Life Moonshot goals, share best practices, and make some art with us!",
+            "description": "Join IMPACT and NVAM as we share community Project that activates Quality of Life Moonshot goals-- share best practices and make some art with us!",
             "end": "3:00pm",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
-                    "name": "Christine Bespalec & Marsha Eaglin",
-                    "twitter": ""
+                    "affiliated org": "National Veterans Art Museum",
+                    "name": "Christine Bespalec",
+                    "twitter": "@krisbd"
                 },
                 "2": {
-                    "affiliated org": "",
-                    "name": "",
+                    "affiliated org": "IMPACT Family Center",
+                    "name": "Marsha Eaglin",
                     "twitter": ""
                 },
                 "3": {
@@ -1402,8 +1400,8 @@
                 }
             },
             "facilitators_names": [
-                "Christine Bespalec & Marsha Eaglin",
-                "",
+                "Christine Bespalec",
+                "Marsha Eaglin",
                 ""
             ],
             "id": "37",
@@ -1454,9 +1452,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-",
             "programmatic": false,
             "start": "",
-            "tags": [
-                ""
-            ],
+            "tags": [],
             "timeblock": "",
             "title": ""
         },
@@ -1468,9 +1464,9 @@
             "end": "10:30am",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
-                    "name": "Sana",
-                    "twitter": ""
+                    "affiliated org": "The Hive Chicago Fund for Connected Learning at The Chicago Community Trust",
+                    "name": "Sana Jafri",
+                    "twitter": "@jafs31"
                 },
                 "2": {
                     "affiliated org": "",
@@ -1484,7 +1480,7 @@
                 }
             },
             "facilitators_names": [
-                "Sana",
+                "Sana Jafri",
                 "",
                 ""
             ],
@@ -1495,9 +1491,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-rfp-101",
             "programmatic": false,
             "start": "9:45am",
-            "tags": [
-                ""
-            ],
+            "tags": [],
             "timeblock": "sat-09-45-",
             "title": "RFP 101"
         },
@@ -1505,28 +1499,28 @@
             "additional language": "",
             "category": "",
             "day": "Saturday",
-            "description": "",
+            "description": "Identify the “who, what, when, where, how, and why” to ignite your ideas and your potential with 100 Dreams, 100 Stories!",
             "end": "11:30am",
             "facilitators": {
                 "1": {
-                    "affiliated org": "",
-                    "name": "Parva",
-                    "twitter": ""
+                    "affiliated org": "Chicago Global Shapers and Let's Vibe",
+                    "name": "Parvathi Santhosh-Kumar",
+                    "twitter": "@GlobalShapers"
                 },
                 "2": {
                     "affiliated org": "",
-                    "name": "",
-                    "twitter": ""
+                    "name": "Diamond Greer",
+                    "twitter": "@GlobalShapers"
                 },
                 "3": {
-                    "affiliated org": "",
+                    "affiliated org": "Chicago Global Shapers and Let's Vibe",
                     "name": "",
                     "twitter": ""
                 }
             },
             "facilitators_names": [
-                "Parva",
-                "",
+                "Parvathi Santhosh-Kumar",
+                "Diamond Greer",
                 ""
             ],
             "id": "40",
@@ -1537,10 +1531,49 @@
             "programmatic": false,
             "start": "10:45am",
             "tags": [
-                ""
+                "Youth Voice"
             ],
             "timeblock": "sat-10-45-",
-            "title": "101 Stories"
+            "title": "100 Dreams, 100 Stories: A Pop-Up Experience Igniting Ideas and Action for Young Women"
+        },
+        {
+            "additional language": "", 
+            "category": "", 
+            "day": "Friday", 
+            "description": "Join us for our Hive Chicago Buzz Science Fair- leading organizations and institutions from Chicago’s education landscape will share their work including Sweetwater Foundation, NEIU’s Maker Space, Maker Mob and Make Take Teach Fair, the Lincoln Park Zoo, Chicago Architecture Foundation, Yollocalli Arts Reach, STEAM STUDIO, SMART Chicago, Code Create, Mozilla’s Digital Security Advocates plus more! Make sure you join Bit Bash to play some indie video games and Mozilla’s Virtual Reality Room.", 
+            "end": "4:00pm", 
+            "facilitators": {
+                "1": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "2": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }, 
+                "3": {
+                    "affiliated org": "", 
+                    "name": "", 
+                    "twitter": ""
+                }
+            }, 
+            "facilitators_names": [
+                "", 
+                "", 
+                ""
+            ], 
+            "id": "41", 
+            "localized description": "", 
+            "localized title": "", 
+            "location": "Bridgeport Art Center: Sculpture Garden", 
+            "notes url": "https://public.etherpad-mozilla.org/p/hcb-2017-science-fair", 
+            "programmatic": false, 
+            "start": "4:00pm", 
+            "tags": [], 
+            "timeblock": "fri-16-00-", 
+            "title": "Science Fair"
         }
     ], 
     "timeblocks": [
